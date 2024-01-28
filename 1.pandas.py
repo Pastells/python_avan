@@ -16,6 +16,9 @@
 # %% [markdown]
 # # Repàs pandas
 
+# %% [markdown]
+# ## Lectura, tipus de dades i duplicats
+
 # %%
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -82,7 +85,7 @@ df[df[["Nom", "Sexe"]].duplicated()]
 # %%
 df.query("Nom == 'BEGOÑA'")
 
-# %% [markdown]
+# %% [markdown] jp-MarkdownHeadingCollapsed=true
 # ## Ens falta netejar la columna `Nom`
 
 # %% [markdown]
