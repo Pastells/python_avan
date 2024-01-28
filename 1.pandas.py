@@ -138,26 +138,18 @@ def treure_accents(s):
 
 
 # %%
-df["Nom"] = (
-    df["Nom"]
-    .str.split("/").str[0]
-    .str.lower()
-    .apply(treure_accents)
-)
+df["Nom"] = df["Nom"].str.split("/").str[0].str.lower().apply(treure_accents)
 df.Nom
 
 # %% [markdown]
 # ## Posant-ho tot junt:
 
 # %%
-df = pd.read_csv("data/noms.csv", sep=";", skiprows=7, decimal=",", thousands=".", keep_default_na=False)
-df = df.rename(columns={"Rànquing. Freqüència": "freq", "Rànquing. ‰": "permil"})
-df["Nom"] = (
-    df["Nom"]
-    .str.split("/").str[0]
-    .str.lower()
-    .apply(treure_accents)
+df = pd.read_csv(
+    "data/noms.csv", sep=";", skiprows=7, decimal=",", thousands=".", keep_default_na=False
 )
+df = df.rename(columns={"Rànquing. Freqüència": "freq", "Rànquing. ‰": "permil"})
+df["Nom"] = df["Nom"].str.split("/").str[0].str.lower().apply(treure_accents)
 df
 
 # %% [markdown]

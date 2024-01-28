@@ -24,7 +24,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
-plt.rcParams['figure.dpi'] = 100
+plt.rcParams["figure.dpi"] = 100
 # %matplotlib inline
 
 # %%
@@ -103,7 +103,7 @@ i = c2i[c]
 plt.bar(np.arange(nchar), N[i])
 plt.title(f"{i2c[i]} va seguit de...")
 for i, value in enumerate(N[i]):
-    plt.text(i, value, i2c[i], ha='center', va='bottom')
+    plt.text(i, value, i2c[i], ha="center", va="bottom")
 
 # %% [markdown]
 # El que volem és **normalitzar** aquest recompte per obtenir freqüències, que interpretarem com a probabilitats
@@ -206,18 +206,18 @@ for i, nom in enumerate(noms):
 # Hem de normalitzar el recompte de caràcters que segueixen qualsevols dos caràcters, per exemple "ma"
 
 # %%
-c2i["m"],  c2i["a"]
+c2i["m"], c2i["a"]
 
 # %%
-N3[15,3]
+N3[15, 3]
 
 # %%
 plt.bar(np.arange(nchar), N3[15, 3])
 for i, value in enumerate(N3[15, 3]):
-    plt.text(i, value, i2c[i], ha='center', va='bottom')
+    plt.text(i, value, i2c[i], ha="center", va="bottom")
 
 # %%
-N3[15,3] / N3[15,3].sum()
+N3[15, 3] / N3[15, 3].sum()
 
 # %% [markdown]
 # Com haviem fet pels bigrames, fem totes les operacions de cop
@@ -227,7 +227,7 @@ N3.sum(axis=2, keepdims=True).shape
 
 # %%
 P3 = N3 / N3.sum(axis=2, keepdims=True)
-P3[0,0]
+P3[0, 0]
 
 # %% [markdown]
 # Veiem que ens surt un error. És degut a una divisió entre 0, que dona `nan` com a resultat.
@@ -236,8 +236,8 @@ P3[0,0]
 
 # %%
 N3_sum = N3.sum(axis=2, keepdims=True)
-P3 = np.divide(N3, N3_sum, out=np.zeros(N3.shape, dtype=float), where=N3_sum!=0)
-P3[0,0]
+P3 = np.divide(N3, N3_sum, out=np.zeros(N3.shape, dtype=float), where=N3_sum != 0)
+P3[0, 0]
 
 # %% [markdown]
 # I comprovem que el resultat és el mateix que a dalt
@@ -259,7 +259,7 @@ for i in range(10):
     ix1 = 0
     ix2 = np.argmax(np.random.multinomial(1, P2[ix1]))
     nom = i2c[ix2]
-    
+
     # Resta amb trigrames
     while True:
         ix3 = np.argmax(np.random.multinomial(1, P3[ix1, ix2]))
@@ -268,7 +268,7 @@ for i in range(10):
         nom += i2c[ix3]
         ix1 = ix2
         ix2 = ix3
-        
+
     print(nom)
 
 # %% [markdown]
@@ -298,7 +298,7 @@ def get_P2(noms, c2i):
             N2[c2i[ch1], c2i[ch2]] += freqs[i]
 
     N2_sum = N2.sum(axis=1, keepdims=True)
-    P2 = np.divide(N2, N2_sum, out=np.zeros(N2.shape, dtype=float), where=N2_sum!=0)
+    P2 = np.divide(N2, N2_sum, out=np.zeros(N2.shape, dtype=float), where=N2_sum != 0)
     return P2
 
 
@@ -311,7 +311,7 @@ def get_P3(noms, c2i):
             N3[c2i[ch1], c2i[ch2], c2i[ch3]] += freqs[i]
 
     N3_sum = N3.sum(axis=2, keepdims=True)
-    P3 = np.divide(N3, N3_sum, out=np.zeros(N3.shape, dtype=float), where=N3_sum!=0)
+    P3 = np.divide(N3, N3_sum, out=np.zeros(N3.shape, dtype=float), where=N3_sum != 0)
     return P3
 
 
@@ -366,13 +366,13 @@ for _ in range(10):
 # %%
 def get_P4(noms, c2i):
     nchar = len(c2i)
-    N4 = np.zeros((nchar,)*4, dtype=np.int32)
+    N4 = np.zeros((nchar,) * 4, dtype=np.int32)
     for i, nom in enumerate(noms):
         for ch1, ch2, ch3, ch4 in ngrams(nom, 4):
             N4[c2i[ch1], c2i[ch2], c2i[ch3], c2i[ch4]] += freqs[i]
 
     N4_sum = N4.sum(axis=3, keepdims=True)
-    P4 = np.divide(N4, N4_sum, out=np.zeros(N4.shape, dtype=float), where=N4_sum!=0)
+    P4 = np.divide(N4, N4_sum, out=np.zeros(N4.shape, dtype=float), where=N4_sum != 0)
     return P4
 
 
@@ -487,16 +487,16 @@ def get_Pn(noms, freqs, c2i, n):
             ixs = tuple(c2i[ch] for ch in chs)
             N[ixs] += freq
 
-    N_sum = N.sum(axis=n-1, keepdims=True)
-    P = np.divide(N, N_sum, out=np.zeros(N.shape, dtype=float), where=N_sum!=0)
+    N_sum = N.sum(axis=n - 1, keepdims=True)
+    P = np.divide(N, N_sum, out=np.zeros(N.shape, dtype=float), where=N_sum != 0)
     return P
 
 
 # %%
 def generar_Pns(noms, freqs, c2i, n):
     Pns = []
-    for i in tqdm(range(2, n+1)):
-        Pns.append(get_Pn(noms, freqs, c2i, i)) 
+    for i in tqdm(range(2, n + 1)):
+        Pns.append(get_Pn(noms, freqs, c2i, i))
     return Pns
 
 
@@ -507,9 +507,10 @@ PnsD = generar_Pns(noms_dona, freqs, c2i, 5)
 # %%
 from collections import deque
 
+
 def genera_noms(Pns, n):
     assert n <= len(Pns) + 1
-    ixs = deque([0], maxlen=n-1)
+    ixs = deque([0], maxlen=n - 1)
     nom = ""
 
     i = 0
