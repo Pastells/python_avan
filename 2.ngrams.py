@@ -6,7 +6,7 @@
 #       extension: .py
 #       format_name: percent
 #       format_version: '1.3'
-#       jupytext_version: 1.16.0
+#       jupytext_version: 1.16.1
 #   kernelspec:
 #     display_name: Python 3 (ipykernel)
 #     language: python
@@ -16,7 +16,7 @@
 # %% [markdown]
 # # Models del llenguatge amb n-grames 
 
-# %% [markdown] jp-MarkdownHeadingCollapsed=true
+# %% [markdown]
 # ## Imports
 
 # %%
@@ -26,12 +26,16 @@ import pandas as pd
 
 plt.rcParams["figure.dpi"] = 100
 # %matplotlib inline
+# %config InlineBackend.figure_format='retina'
 
 # %%
 df = pd.read_csv("data/noms_net.csv", keep_default_na=False)
 df["nom#"] = "#" + df["Nom"] + "#"
 noms = df["nom#"].tolist()
 noms[:5]
+
+# %%
+df[df.Nom.str.contains("'")]
 
 # %% [markdown]
 # Treballarem a nivell de caràcters, farem servir `#` per marcar inici i fi dels noms.
@@ -44,6 +48,38 @@ nchar = len(chars)
 c2i = {c: i for i, c in enumerate(chars)}
 i2c = {i: c for i, c in enumerate(chars)}
 c2i
+
+# %% [markdown]
+# ## Llei de Zipf
+
+# %%
+N1 = np.zeros(nchar, dtype=np.int32)
+for nom in noms:
+    for ch, in nom:
+        N1[c2i[ch]] += 1
+        
+P1 = N1 / N1.sum()
+sorted_indices = np.argsort(P1)[::-1]
+
+P1 = P1[sorted_indices]
+chars_sorted = [chars[i] for i in sorted_indices]
+
+plt.scatter(chars_sorted, np.log(P1))
+
+# %%
+from sklearn.linear_model import LinearRegression
+X = np.arange(nchar).reshape(-1, 1)
+y = np.log(P1)
+reg = LinearRegression().fit(X, y)
+reg2 = LinearRegression().fit(X[:-4], y[:-4])
+
+# %%
+plt.scatter(X, y)
+plt.plot(X, reg.predict(X),color='grey')
+plt.plot(X, reg2.predict(X),color='k')
+
+# %% [markdown]
+# D'aquí uns dies veurem com fer regressions fàcilment amb seaborn
 
 # %% [markdown] jp-MarkdownHeadingCollapsed=true
 # ## Model amb recompte de bigrames
@@ -148,7 +184,7 @@ for i in range(10):
 # Ara bé, si ho comparem amb una distribució totalment aleatòria, donant el mateix pes a totes les combinacions la cosa és horrible, així que estem fent algo bé.
 # Comprova-ho descomentant la cel·la de dalt amb `np.ones` i refent la generació
 
-# %% [markdown] jp-MarkdownHeadingCollapsed=true
+# %% [markdown]
 # ## Ho podem fer millor?
 
 # %% [markdown]
@@ -183,7 +219,7 @@ for i in range(10):
 # %% [markdown]
 # Potser són una mica millors, però molts segueixen siguent dolents. Considerar només dos caràcters és molt limitant
 
-# %% [markdown] jp-MarkdownHeadingCollapsed=true
+# %% [markdown]
 # ## Trigrames
 
 # %% [markdown]
@@ -232,7 +268,7 @@ P3[0, 0]
 # %% [markdown]
 # Veiem que ens surt un error. És degut a una divisió entre 0, que dona `nan` com a resultat.
 #
-# Podríem no fer-ne cas, ja que precisament no farem servir les combinacions que mai apareixen. El que farem, però és fer servir `np.divide`, que ens permetrà obtenir zeros en comptes de `nan`.
+# Podríem no fer-ne cas, ja que precisament no farem servir les combinacions que mai apareixen. El que farem, però, és fer servir `np.divide`, que ens permetrà obtenir zeros en comptes de `nan`.
 
 # %%
 N3_sum = N3.sum(axis=2, keepdims=True)
