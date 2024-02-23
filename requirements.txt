@@ -1,0 +1,9 @@
+icecream
+matplotlib
+nltk
+numpy
+pandas
+ruff
+scikit-learn
+seaborn
+spacy
