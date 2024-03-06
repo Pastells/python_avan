@@ -4,10 +4,15 @@
 
 Has fet servir python (o un altre llenguatge de programació) alguna vegada.
 
-Com a molt mínim, saps què és una variable i quins tipus bàsics n'existeixen,
-què és un for-loop, i què fan els `if` i `else`.
+Saps què és una variable i quins tipus bàsics n'existeixen,
+què és un for-loop, què fan els `if` i `else`, i com treballar amb `tuples`, `arrays` i `dictionaries`.
 
-Per anar bé, saps treballar amb `tuples`, `arrays` i `dictionaries`.
+Si no has vist mai python pots començar amb qualsevol introducció que trobis en línea.
+Per exemple:
+- [Aquest en castellà](https://www.youtube.com/watch?v=Kp4Mvapo5kc&list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_&index=2) ([i la segona part](https://www.youtube.com/watch?v=TbcEqkabAWU&list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_&index=3))
+- [Aquest en anglès](https://www.youtube.com/watch?v=rfscVS0vtbw)
+- [O aquest altre més llarg](https://www.youtube.com/watch?v=nLRL_NcnK-4)
+
 
 ## Objectius
 
@@ -59,3 +64,25 @@ http://jxmo.io/deep-learning-workshop/
 https://github.com/rasbt/LLMs-from-scratch
 
 https://github.com/mlabonne/llm-course
+
+
+##
+
+https://goodresearch.dev/zipf.html
+
+
+## Estilometria
+
+https://github.com/SupervisedStylometry/SuperStyl
+
+https://colab.research.google.com/github/fastdatascience/faststylometry/blob/main/Burrows%20Delta%20Walkthrough.ipynb
+
+https://programminghistorian.org/en/lessons/introduction-to-stylometry-with-python#third-stylometric-test-john-burrows-delta-method-advanced
+
+https://github.com/mikekestemont/pystyl/blob/master/A%20Walk%20Through%20PyStyl.ipynb
+
+https://github.com/jpotts18/stylometry
+
+## Visualització
+
+https://programminghistorian.org/en/lessons/visualizing-with-bokeh
