@@ -1,11 +1,14 @@
 # Curs de python avançat (en procés de creació)
 
+Aquest curs està orientat a humanistes que vulguin ampliar els seus coneixements de programació amb Python.
+En concret, estarà enfocat al processament del llenguatge natural.
+
 ## Requisits
 
-Has fet servir python (o un altre llenguatge de programació) alguna vegada.
+Haver fet servir python (o un altre llenguatge de programació) alguna vegada.
 
-Saps què és una variable i quins tipus bàsics n'existeixen,
-què és un for-loop, què fan els `if` i `else`, i com treballar amb `tuples`, `arrays` i `dictionaries`.
+Saber què és una variable i quins tipus bàsics n'existeixen,
+què són els bucles, les decisions (`if` i `else`) i les funcions; i com treballar amb `tuples`, `arrays` i diccionaris.
 
 Si no has vist mai python pots començar amb qualsevol introducció que trobis en línea.
 Per exemple:
@@ -26,15 +29,15 @@ i farem servir la llibreria `huggingface`.
 
 0. Repàs ràpid; comprehensions, collections i itertools, with open; estructura projecte; ruff
 1. Numpy, intro pandas
-2. Matplotlib (plt) i + pandas
+2. Matplotlib (plt) i més pandas
 3. Repàs de pandas amb dades reals
-4. Model generació noms amb n-grames (inspirat per https://youtu.be/PaCmpygFfXo?si=jRAnbQPElsccgK15)
-5. Classes
+4. Model generació noms amb N-grames (inspirat per https://youtu.be/PaCmpygFfXo?si=jRAnbQPElsccgK15; per informació més teòrica vegeu el capítol 3 del llibre de [Jurafsky i Martin](https://web.stanford.edu/~jurafsky/slp3/))
+5. Introducció a les classes
 6. Debugging (aprendre a llegir els errors, buscar-los; icecream; algun debugger?)
-7. Matplotlib (fig i ax) + seaborn
+7. Matplotlib (fig i ax) i seaborn
 8. Algo de ML: clustering i llei de Zipf
-9. Spacy - com a pont entre ML i DL
-10. Algo de DL (huggingface)
+9. spaCy - com a pont entre ML i DL
+10. Algo de DL (HuggingFace)
 
 - Incorporar ChatGPT durant el curs
 - Posar el curs a binder?: https://mybinder.readthedocs.io/en/latest/
