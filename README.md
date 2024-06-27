@@ -1,3 +1,8 @@
+<p align="left">
+<a href="https://mybinder.org/v2/gh/Pastells/python_avan/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
+<a href="https://githubtocolab.com/Pastells/python_avan"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a>
+</p>
+
 # Curs de python avançat (en procés de creació)
 
 Aquest curs està orientat a humanistes que vulguin ampliar els seus coneixements de programació amb Python.
@@ -39,9 +44,6 @@ i farem servir la llibreria `huggingface`.
 9. spaCy - com a pont entre ML i DL
 10. Algo de DL (HuggingFace)
 
-- Incorporar ChatGPT durant el curs
-- Posar el curs a binder?: https://mybinder.readthedocs.io/en/latest/
-
 Coses que estarien bé, però no donarà temps de fer:
 - git
 
@@ -52,24 +54,11 @@ Coses que estarien bé, però no donarà temps de fer:
 
 https://github.com/dirkhovy/python_for_linguists/blob/master/Python%20for%20Linguists.ipynb
 
-https://github.com/venelink/python_course (Venelin UB)
-
-https://github.com/venelink/NLP-Course-2018/tree/master
-
 https://github.com/Alex-bzh/python-M1TAL
 
 https://dabeaz-course.github.io/practical-python/Notes/Contents.html
 
-## Curos avançats
-
-http://jxmo.io/deep-learning-workshop/
-
-https://github.com/rasbt/LLMs-from-scratch
-
-https://github.com/mlabonne/llm-course
-
-
-##
+## Zipf
 
 https://goodresearch.dev/zipf.html
 
