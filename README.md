@@ -33,15 +33,17 @@ i farem servir la llibreria `huggingface`.
 ## Apartats del curs (aproximats)
 
 1. Repàs general; strings, llistes i diccionaris; Collections comprehensions
-2.1. Numpy
-2.2. Pandas
-2.3. Matplotlib
+2. Paquest científics
+    1. Numpy
+    2. Pandas
+    3. Matplotlib
 3. Model generació noms amb N-grames
 4. Introducció a les classes
 5. Projectes, debugging, PEP 8 i black
 6. Més Matplotlib i Seaborn
-7.1. SpaCy
-7.2. HuggingFace
+7. Aprenentatge automàtic
+    1. SpaCy
+    2. HuggingFace
 
 
 # Referències
