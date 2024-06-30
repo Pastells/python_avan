@@ -32,23 +32,30 @@ i farem servir la llibreria `huggingface`.
 
 ## Apartats del curs (aproximats)
 
-0. Repàs ràpid; comprehensions, collections i itertools, with open; estructura projecte; ruff
-1. Numpy, intro pandas
-2. Matplotlib (plt) i més pandas
-3. Repàs de pandas amb dades reals
-4. Model generació noms amb N-grames (inspirat per https://youtu.be/PaCmpygFfXo?si=jRAnbQPElsccgK15; per informació més teòrica vegeu el capítol 3 del llibre de [Jurafsky i Martin](https://web.stanford.edu/~jurafsky/slp3/))
-5. Introducció a les classes
-6. Debugging (aprendre a llegir els errors, buscar-los; icecream; algun debugger?)
-7. Matplotlib (fig i ax) i seaborn
-8. Algo de ML: clustering i llei de Zipf
-9. spaCy - com a pont entre ML i DL
-10. Algo de DL (HuggingFace)
-
-Coses que estarien bé, però no donarà temps de fer:
-- git
+1. Repàs general; strings, llistes i diccionaris; Collections comprehensions
+2.1. Numpy
+2.2. Pandas
+2.3. Matplotlib
+3. Model generació noms amb N-grames
+4. Introducció a les classes
+5. Projectes, debugging, PEP 8 i black
+6. Més Matplotlib i Seaborn
+7.1. SpaCy
+7.2. HuggingFace
 
 
 # Referències
+
+
+    McKinney, W. (2013). Python for data analysis. " O'Reilly Media, Inc.".
+    Jurafsky, D., & Martin, J. H. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition.
+    Tunstall, L., Von Werra, L., & Wolf, T. (2022). Natural language processing with transformers. " O'Reilly Media, Inc.".
+    https://github.com/dabeaz-course/practical-python
+    https://github.com/dabeaz-course/python-mastery
+
+
+
+# Altres
 
 ## Cursos introductoris
 

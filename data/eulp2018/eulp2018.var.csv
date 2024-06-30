@@ -1,0 +1,880 @@
+Variable	DescrCA	DescrES	DescrEN	Valor_Value	LabelCA	LabelES	LabelEN
+IDQUEST	Identificador del qüestionari	Identificador del cuestionario	Questionnaire identifier				
+ANY_NAIX	Quin és el seu any de naixement?	¿Cuál es su año de nacimiento?	What is your year of birth?				
+P1	Llengua d'identificació	Lengua de identificación	Language of identification				
+P1				1	Català	Catalán	Catalan
+P1				2	Castellà	Castellano	Spanish
+P1				3	Català i castellà	Catalán y castellano	Catalan and Spanish
+P1				4	Aranès	Aranés	Aranese
+P1				99	No consta	No consta	N/A
+P1				105	Alemany	Alemán	German
+P1				107	Anglès	Inglés	English
+P1				108	Àrab	Árabe	Arabic
+P1				139	Francès	Francés	French
+P1				142	Gallec	Gallego	Galician
+P1				158	Italià	Italiano	Italian
+P1				193	Portuguès	Portugués	Portuguese
+P1				197	Romanès	Rumano	Romanian
+P1				198	Rus	Ruso	Russian
+P1				234	Xinès	Chino	Chinese
+P1				991	Berber Amazic	Berber Amazig	Berber Imazighen
+P1				998	Altres llengües	Otras lenguas	Other languages
+P1				999	Altres combinacions de llengües	Otras combinaciones de lenguas	Other language combinations
+P2	Llengües que parla fluïdament	Lenguas que habla fluidamente	Languages you speak fluently				
+P2				1	Català	Catalán	Catalan
+P2				2	Castellà	Castellano	Spanish
+P2				3	Català i castellà	Catalán y castellano	Catalan and Spanish
+P2				4	Aranès	Aranés	Aranese
+P2				99	No consta	No consta	N/A
+P2				105	Alemany	Alemán	German
+P2				107	Anglès	Inglés	English
+P2				108	Àrab	Árabe	Arabic
+P2				139	Francès	Francés	French
+P2				142	Gallec	Gallego	Galician
+P2				158	Italià	Italiano	Italian
+P2				193	Portuguès	Portugués	Portuguese
+P2				197	Romanès	Rumano	Romanian
+P2				198	Rus	Ruso	Russian
+P2				234	Xinès	Chino	Chinese
+P2				991	Berber Amazic	Berber Amazig	Berber Imazighen
+P2				998	Altres llengües	Otras lenguas	Other languages
+P2				999	Altres combinacions de llengües	Otras combinaciones de lenguas	Other language combinations
+P3_A	Coneixement de la llengua catalana. Entén el català?	Conocimiento de la lengua catalana. ¿Entiende el catalán?	Knowledge of the Catalan language. Do you understand Catalan?				
+P3_A				1	Sí	Sí	Yes
+P3_A				2	No	No	No
+P3_B	Coneixement de la llengua catalana. A més d'entendre el català, el sap parlar?	Conocimiento de la lengua catalana. Además de entender el catalán, ¿sabe hablarlo?	Knowledge of the Catalan language. In addition to understanding Catalan, can you speak it?				
+P3_B				1	Sí	Sí	Yes
+P3_B				2	No	No	No
+P3_C	Coneixement de la llengua catalana. El sap llegir, el català?	Conocimiento de la lengua catalana. ¿Sabe leer el catalán?	Knowledge of the Catalan language. Can you read Catalan?				
+P3_C				1	Sí	Sí	Yes
+P3_C				2	No	No	No
+P3_D	Coneixement de la llengua catalana. El sap escriure, el català?	Conocimiento de la lengua catalana. ¿Sabe escribir el catalán?	Knowledge of the Catalan language. Can you write in Catalan?				
+P3_D				1	Sí	Sí	Yes
+P3_D				2	No	No	No
+P3BIS	On ha après a parlar català	Donde ha aprendido a hablar catalán	Where did you learn to speak Catalan				
+P3BIS				1	A casa, des de petit	En casa, desde pequeño	At home, since early childhood
+P3BIS				2	A l'escola (formació reglada)	En la escuela (formación reglada)	At school (formal education)
+P3BIS				3	A la formació superior (universitat)	En la formación superior (universidad)	In higher education (university)
+P3BIS				4	A la feina, amb els companys de feina	En el trabajo, con los compañeros	At work, with work colleagues
+P3BIS				5	A la feina, amb formació laboral	En el trabajo, con formación laboral	At work, with job training
+P3BIS				6	En la meva vida quotidiana	En mi vida cotidiana	In my daily life
+P3BIS				7	En un curs de català per a adults	En un curso de catalán para adultos	In a Catalan course for adults
+P3BIS				8	Amb la família, però no des de petit	Con la familia, pero no desde pequeño	With the family, but not since early childhood
+P3BIS				9	Pel meu compte amb eines a l'abast (llegint, mitjans comunicació, etc)	Por mi cuenta con herramientas al alcance (leyendo, medios de comunicación, etc.)	By myself with available tools (reading, media, etc.)
+P3BIS				95	No consta	No consta	N/A
+P4_A	Coneixement de la llengua castellana. Entén el castellà?	Conocimiento de la lengua castellana. ¿Entiende el castellano?	Knowledge of the Spanish language. Do you understand Spanish?				
+P4_A				1	Sí	Sí	Yes
+P4_A				2	No	No	No
+P4_B	Coneixement de la llengua castellana. A més d'entendre el castellà el sap parlar?	Conocimiento de la lengua castellana. Además de entender el castellano ¿sabe hablarlo?	Knowledge of the Spanish language. In addition to understanding Spanish, can you speak it?				
+P4_B				1	Sí	Sí	Yes
+P4_B				2	No	No	No
+P4_C	Coneixement de la llengua castellana. El sap llegir, el castellà?	Conocimiento de la lengua castellana. ¿Sabe leer el castellano?	Knowledge of the Spanish language. Can you read Spanish?				
+P4_C				1	Sí	Sí	Yes
+P4_C				2	No	No	No
+P4_D	Coneixement de la llengua castellana. El sap escriure, el castellà?	Conocimiento de la lengua castellana. ¿Sabe escribir el castellano?	Knowledge of the Spanish language. Can you write in Spanish?				
+P4_D				1	Sí	Sí	Yes
+P4_D				2	No	No	No
+P5_A	Coneixement de l’aranès. Entén l’aranès?	Conocimiento del aranés. ¿Entiende usted el aranés?	Knowledge of Aranese. Do you understand Aranese?				
+P5_A				1	Sí	Sí	Yes
+P5_A				2	No	No	No
+P5_B	A més d'entendre l’aranès, el sap parlar?	Además de entender el aranés, ¿sabe hablarlo?	In addition to understanding Aranese, can you speak it?				
+P5_B				1	Sí	Sí	Yes
+P5_B				2	No	No	No
+P5_C	Coneixement de l'aranès. El sap llegir, l'aranès?	Conocimiento del aranés. ¿Sabe leer el aranés?	Knowledge of the Aranese language. Can you read Aranese?				
+P5_C				1	Sí	Sí	Yes
+P5_C				2	No	No	No
+P5_D	Coneixement de l'aranès. El sap escriure, l'aranès?	Conocimiento del aranés. ¿Sabe escribir el aranés?	Knowledge of the Aranese language. Can you write in Aranese?				
+P5_D				1	Sí	Sí	Yes
+P5_D				2	No	No	No
+P6	Llengua inicial	Lengua inicial	Initial language				
+P6				1	Català	Catalán	Catalan
+P6				2	Castellà	Castellano	Spanish
+P6				3	Català i castellà	Catalán y castellano	Catalan and Spanish
+P6				4	Aranès	Aranés	Aranese
+P6				99	No consta	No consta	N/A
+P6				105	Alemany	Alemán	German
+P6				107	Anglès	Inglés	English
+P6				108	Àrab	Árabe	Arabic
+P6				139	Francès	Francés	French
+P6				142	Gallec	Gallego	Galician
+P6				158	Italià	Italiano	Italian
+P6				193	Portuguès	Portugués	Portuguese
+P6				197	Romanès	Rumano	Romanian
+P6				198	Rus	Ruso	Russian
+P6				234	Xinès	Chino	Chinese
+P6				991	Berber Amazic	Berber Amazig	Berber Imazighen
+P6				998	Altres llengües	Otras lenguas	Other languages
+P6				999	Altres combinacions de llengües	Otras combinaciones de lenguas	Other language combinations
+P7	Llengua habitual	Lengua habitual	Usual language				
+P7				1	Català	Catalán	Catalan
+P7				2	Castellà	Castellano	Spanish
+P7				3	Català i castellà	Catalán y castellano	Catalan and Spanish
+P7				4	Aranès	Aranés	Aranese
+P7				99	No consta	No consta	N/A
+P7				105	Alemany	Alemán	German
+P7				107	Anglès	Inglés	English
+P7				108	Àrab	Árabe	Arabic
+P7				139	Francès	Francés	French
+P7				142	Gallec	Gallego	Galician
+P7				158	Italià	Italiano	Italian
+P7				193	Portuguès	Portugués	Portuguese
+P7				197	Romanès	Rumano	Romanian
+P7				198	Rus	Ruso	Russian
+P7				234	Xinès	Chino	Chinese
+P7				991	Berber Amazic	Berber Amazig	Berber Imazighen
+P7				998	Altres llengües	Otras lenguas	Other languages
+P7				999	Altres combinacions de llengües	Otras combinaciones de lenguas	Other language combinations
+P8_A	Coneixement de la llengua anglesa. Entén l'anglès?	Conocimiento de la lengua inglesa. ¿Entiende el inglés?	Knowledge of the English language. Do you understand English?				
+P8_A				1	Sí	Sí	Yes
+P8_A				2	No	No	No
+P8_B	Coneixement de la llengua anglesa. A més d'entendre l'anglès, el sap parlar?	Conocimiento de la lengua inglesa. Además de entender el inglés, ¿sabe hablarlo?	Knowledge of the English language. In addition to understanding English, can you speak it?				
+P8_B				1	Sí	Sí	Yes
+P8_B				2	No	No	No
+P8_C	Coneixement de la llengua anglesa. El sap llegir, l'anglès?	Conocimiento de la lengua inglesa. ¿Sabe leer el inglés?	Knowledge of the English language. Can you read English?				
+P8_C				1	Sí	Sí	Yes
+P8_C				2	No	No	No
+P8_D	Coneixement de la llengua anglesa. El sap escriure, l'anglès?	Conocimiento de la lengua inglesa. ¿Sabe escribir el inglés?	English language proficiency. Can you write in English?				
+P8_D				1	Sí	Sí	Yes
+P8_D				2	No	No	No
+P9_A	Coneixement de la llengua francesa. Entén el francès?	Conocimiento de la lengua francesa. ¿Entiende el francés?	Knowledge of the French language. Do you understand French?				
+P9_A				1	Sí	Sí	Yes
+P9_A				2	No	No	No
+P9_B	Coneixement de la llengua francesa. A més d'entendre el francès el sap parlar?	Conocimiento de la lengua francesa. Además de entender el francés ¿sabe hablarlo?	Knowledge of the French language. In addition to understanding French, can you speak it?				
+P9_B				1	Sí	Sí	Yes
+P9_B				2	No	No	No
+P9_C	Coneixement de la llengua francesa. El sap llegir, el francès?	Conocimiento de la lengua francesa. ¿Sabe leer el francés?	Knowledge of the French language. Can you read French?				
+P9_C				1	Sí	Sí	Yes
+P9_C				2	No	No	No
+P9_D	Coneixement de la llengua francesa. El sap escriure, el francès?	Conocimiento de la lengua francesa. ¿Sabe escribir el francés?	Knowledge of the French language. Can you write in French?				
+P9_D				1	Sí	Sí	Yes
+P9_D				2	No	No	No
+P10	Quantes persones viuen a la seva llar, comptant-lo a vostè?	¿Cuántas personas viven en su hogar, contándolo a usted?	How many people live in your household, including you?				
+P10				1	1 membre	1 miembro	1 member
+P10				2	2 membres	2 miembros	2 members
+P10				3	3 membres	3 miembros	3 members
+P10				4	4 membres	4 miembros	4 members
+P10				5	5 membres	5 miembros	5 members
+P10				6	6 membres o més	6 miembros o más	6 members or more
+P11	Vostè, en la seva llar actual, quina llengua parla?	Usted, en su hogar actual, ¿qué lengua habla?	What language do you speak in your current home?				
+P11				1	Només català	Sólo catalán	Only Catalan
+P11				2	Més català que castellà	Más catalán que castellano	More Catalan than Spanish
+P11				3	Ambdues	Ambas	Both
+P11				4	Més castellà que català	Más castellano que catalán	More Spanish than Catalan
+P11				5	Només castellà	Sólo castellano	Only Spanish
+P11				6	Només en altres llengües	Sólo en otras lenguas	Only in other languages
+P11				7	Català i altres llengües	Catalán y otras lenguas	Catalan and other languages
+P11				8	Castellà i altres llengües	Castellano y otras lenguas	Spanish and anothers languages
+P11				9	Català, castellà i altra llengua	Catalán, castellano y otra lengua	Catalan, Spanish and another language
+P11				10	Només aranès	Sólo aranés	Only Aranese
+P11				11	Català i aranès	Catalán y aranés	Catalan and Aranese
+P11				12	Castellà i aranès	Castellano y aranés	Spanish and Aranese
+P11				13	Aranès i altra llengua	Aranés y otra lengua	Aranese and another language
+P11				14	Català, castellà i aranès	Catalán, castellano y aranés	Catalan, Spanish and Aranese
+P11				15	Català, aranès i altra llengua	Catalán, aranés y otra lengua	Catalan, Aranese and another language
+P11				16	Castellà, aranès i altra llengua	Castellano, aranés y otra lengua	Spanish, Aranese and another language
+P11				99	No consta	No consta	N/A
+P15	On va nèixer la seva mare?	¿Dónde nació su madre?	Where was your mother born?				
+P15				1	Catalunya	Cataluña	Catalonia
+P15				2	Resta d'Espanya	Resto de España	Rest of Spain
+P15				3	Estranger	Extranjero	Abroad
+P15				95	No l'he coneguda	No la he conocido	I haven't met her
+P15				99	No consta	No consta	N/A
+P17	Nivell d'estudis de la mare	Nivel de estudios de la madre	Mother's education level				
+P17				1	Sense estudis	Sin estudios	No education
+P17				2	Estudis primaris	Estudios primarios	Primary education
+P17				3	Estudis secundaris	Estudios secundarios	Secondary education
+P17				4	Estudis universitaris	Estudios universitarios	University education
+P17				99	No consta	No consta	N/A
+P18	Amb la mare, en quina llengua parla o parlava?	Con su madre, ¿en qué lengua habla o hablaba?	What language do you or did you speak to your mother in?				
+P18				1	Només català	Sólo catalán	Only Catalan
+P18				2	Més català que castellà	Más catalán que castellano	More Catalan than Spanish
+P18				3	Ambdues	Ambas	Both
+P18				4	Més castellà que català	Más castellano que catalán	More Spanish than Catalan
+P18				5	Només castellà	Sólo castellano	Only Spanish
+P18				6	Només en altres llengües	Sólo en otras lenguas	Only in other languages
+P18				7	Català i altres llengües	Catalán y otras lenguas	Catalan and other languages
+P18				8	Castellà i altres llengües	Castellano y otras lenguas	Spanish and anothers languages
+P18				9	Català, castellà i altra llengua	Catalán, castellano y otra lengua	Catalan, Spanish and another language
+P18				10	Només aranès	Sólo aranés	Only Aranese
+P18				11	Català i aranès	Catalán y aranés	Catalan and Aranese
+P18				12	Castellà i aranès	Castellano y aranés	Spanish and Aranese
+P18				13	Aranès i altra llengua	Aranés y otra lengua	Aranese and another language
+P18				14	Català, castellà i aranès	Catalán, castellano y aranés	Catalan, Spanish and Aranese
+P18				15	Català, aranès i altra llengua	Catalán, aranés y otra lengua	Catalan, Aranese and another language
+P18				16	Castellà, aranès i altra llengua	Castellano, aranés y otra lengua	Spanish, Aranese and another language
+P18				99	No consta	No consta	N/A
+P22	Llengua inicial de la mare	Lengua inicial de la madre	Mother's initial language				
+P22				1	Català	Catalán	Catalan
+P22				2	Castellà	Castellano	Spanish
+P22				3	Català i castellà	Catalán y castellano	Catalan and Spanish
+P22				4	Aranès	Aranés	Aranese
+P22				99	No consta	No consta	N/A
+P22				105	Alemany	Alemán	German
+P22				107	Anglès	Inglés	English
+P22				108	Àrab	Árabe	Arabic
+P22				139	Francès	Francés	French
+P22				142	Gallec	Gallego	Galician
+P22				158	Italià	Italiano	Italian
+P22				193	Portuguès	Portugués	Portuguese
+P22				197	Romanès	Rumano	Romanian
+P22				198	Rus	Ruso	Russian
+P22				234	Xinès	Chino	Chinese
+P22				991	Berber Amazic	Berber Amazig	Berber Imazighen
+P22				998	Altres llengües	Otras lenguas	Other languages
+P22				999	Altres combinacions de llengües	Otras combinaciones de lenguas	Other language combinations
+P23	On va néixer el seu pare?	¿Dónde nació su padre?	Where was your father born?				
+P23				1	Catalunya	Cataluña	Catalonia
+P23				2	Resta d'Espanya	Resto de España	Rest of Spain
+P23				3	Estranger	Extranjero	Abroad
+P23				95	No l'he conegut	No lo he conocido	I haven't met him
+P23				99	No consta	No consta	N/A
+P25	Nivell d'estudis del pare	Nivel de estudios del padre	Father's education level				
+P25				1	Sense estudis	Sin estudios	No education
+P25				2	Estudis primaris	Estudios primarios	Primary education
+P25				3	Estudis secundaris	Estudios secundarios	Secondary education
+P25				4	Estudis universitaris	Estudios universitarios	University education
+P25				99	No consta	No consta	N/A
+P26	Amb el pare, en quina llengua parla o parlava?	Con su padre, ¿en qué lengua habla o hablaba?	What language do you or did you speak to your father in?				
+P26				1	Només català	Sólo catalán	Only Catalan
+P26				2	Més català que castellà	Más catalán que castellano	More Catalan than Spanish
+P26				3	Ambdues	Ambas	Both
+P26				4	Més castellà que català	Más castellano que catalán	More Spanish than Catalan
+P26				5	Només castellà	Sólo castellano	Only Spanish
+P26				6	Només en altres llengües	Sólo en otras lenguas	Only in other languages
+P26				7	Català i altres llengües	Catalán y otras lenguas	Catalan and other languages
+P26				8	Castellà i altres llengües	Castellano y otras lenguas	Spanish and anothers languages
+P26				9	Català, castellà i altra llengua	Catalán, castellano y otra lengua	Catalan, Spanish and another language
+P26				10	Només aranès	Sólo aranés	Only Aranese
+P26				11	Català i aranès	Catalán y aranés	Catalan and Aranese
+P26				12	Castellà i aranès	Castellano y aranés	Spanish and Aranese
+P26				13	Aranès i altra llengua	Aranés y otra lengua	Aranese and another language
+P26				14	Català, castellà i aranès	Catalán, castellano y aranés	Catalan, Spanish and Aranese
+P26				15	Català, aranès i altra llengua	Catalán, aranés y otra lengua	Catalan, Aranese and another language
+P26				16	Castellà, aranès i altra llengua	Castellano, aranés y otra lengua	Spanish, Aranese and another language
+P26				99	No consta	No consta	N/A
+P30	Llengua inicial del pare	Lengua inicial del padre	Father's initial language				
+P30				1	Català	Catalán	Catalan
+P30				2	Castellà	Castellano	Spanish
+P30				3	Català i castellà	Catalán y castellano	Catalan and Spanish
+P30				4	Aranès	Aranés	Aranese
+P30				99	No consta	No consta	N/A
+P30				105	Alemany	Alemán	German
+P30				107	Anglès	Inglés	English
+P30				108	Àrab	Árabe	Arabic
+P30				139	Francès	Francés	French
+P30				142	Gallec	Gallego	Galician
+P30				158	Italià	Italiano	Italian
+P30				193	Portuguès	Portugués	Portuguese
+P30				197	Romanès	Rumano	Romanian
+P30				198	Rus	Ruso	Russian
+P30				234	Xinès	Chino	Chinese
+P30				991	Berber Amazic	Berber Amazig	Berber Imazighen
+P30				998	Altres llengües	Otras lenguas	Other languages
+P30				999	Altres combinacions de llengües	Otras combinaciones de lenguas	Other language combinations
+P31	Amb el seus avis materns, en quina llengua parla o parlava?	Con su madre, ¿en qué lengua habla o hablaba?	What language do you or did you speak to your mother in?				
+P31				1	Només català	Sólo catalán	Only Catalan
+P31				2	Més català que castellà	Más catalán que castellano	More Catalan than Spanish
+P31				3	Ambdues	Ambas	Both
+P31				4	Més castellà que català	Más castellano que catalán	More Spanish than Catalan
+P31				5	Només castellà	Sólo castellano	Only Spanish
+P31				6	Només en altres llengües	Sólo en otras lenguas	Only in other languages
+P31				7	Català i altres llengües	Catalán y otras lenguas	Catalan and other languages
+P31				8	Castellà i altres llengües	Castellano y otras lenguas	Spanish and anothers languages
+P31				9	Català, castellà i altra llengua	Catalán, castellano y otra lengua	Catalan, Spanish and another language
+P31				10	Només aranès	Sólo aranés	Only Aranese
+P31				11	Català i aranès	Catalán y aranés	Catalan and Aranese
+P31				12	Castellà i aranès	Castellano y aranés	Spanish and Aranese
+P31				13	Aranès i altra llengua	Aranés y otra lengua	Aranese and another language
+P31				14	Català, castellà i aranès	Catalán, castellano y aranés	Catalan, Spanish and Aranese
+P31				15	Català, aranès i altra llengua	Catalán, aranés y otra lengua	Catalan, Aranese and another language
+P31				16	Castellà, aranès i altra llengua	Castellano, aranés y otra lengua	Spanish, Aranese and another language
+P31				97	No els he conegut	No los he conocido	I haven't met them
+P31				99	No consta	No consta	N/A
+P35	Amb els avis paterns, en quina llengua parla o parlava?	Con sus abuelos paternos, ¿en qué lengua habla o hablaba?	With your paternal grandparents, what language do you or did you speak?				
+P35				1	Només català	Sólo catalán	Only Catalan
+P35				2	Més català que castellà	Más catalán que castellano	More Catalan than Spanish
+P35				3	Ambdues	Ambas	Both
+P35				4	Més castellà que català	Más castellano que catalán	More Spanish than Catalan
+P35				5	Només castellà	Sólo castellano	Only Spanish
+P35				6	Només en altres llengües	Sólo en otras lenguas	Only in other languages
+P35				7	Català i altres llengües	Catalán y otras lenguas	Catalan and other languages
+P35				8	Castellà i altres llengües	Castellano y otras lenguas	Spanish and anothers languages
+P35				9	Català, castellà i altra llengua	Catalán, castellano y otra lengua	Catalan, Spanish and another language
+P35				10	Només aranès	Sólo aranés	Only Aranese
+P35				11	Català i aranès	Catalán y aranés	Catalan and Aranese
+P35				12	Castellà i aranès	Castellano y aranés	Spanish and Aranese
+P35				13	Aranès i altra llengua	Aranés y otra lengua	Aranese and another language
+P35				14	Català, castellà i aranès	Catalán, castellano y aranés	Catalan, Spanish and Aranese
+P35				15	Català, aranès i altra llengua	Catalán, aranés y otra lengua	Catalan, Aranese and another language
+P35				16	Castellà, aranès i altra llengua	Castellano, aranés y otra lengua	Spanish, Aranese and another language
+P35				97	No els he conegut	No los he conocido	I haven't met them
+P35				99	No consta	No consta	N/A
+P39	Vostè actualment té parella?	¿Usted actualmente tiene pareja? 	Do you currently have a partner?				
+P39				1	Sí	Sí	Yes
+P39				2	No, però n’he tingut	No, pero he tenido	No, but I had
+P39				3	No, ni n’he tingut 	No, ni he tenido	No, I have not had
+P39				99	No consta	No consta	N/A
+P40	Conviu amb la seva parella?	¿Convive con su pareja?	Do you live with your partner?				
+P40				1	Sí	Sí	Yes
+P40				2	No	No	No
+P40				99	No consta	No consta	N/A
+P42	On va néixer la seva parella actual o anterior?	¿Dónde nació su pareja actual o anterior?	Where was your current or former partner born?				
+P42				1	Catalunya	Cataluña	Catalonia
+P42				2	Resta d'Espanya	Resto de España	Rest of Spain
+P42				3	Estranger	Extranjero	Abroad
+P42				99	No consta	No consta	N/A
+P43	Amb la seva parella actual o anterior, en quina llengua parla o parlava?	Con su pareja actual o anterior, ¿en qué lengua habla o hablaba? 	With your current or former partner, what language do you or did you speak?				
+P43				1	Només català	Sólo catalán	Only Catalan
+P43				2	Més català que castellà	Más catalán que castellano	More Catalan than Spanish
+P43				3	Ambdues	Ambas	Both
+P43				4	Més castellà que català	Más castellano que catalán	More Spanish than Catalan
+P43				5	Només castellà	Sólo castellano	Only Spanish
+P43				6	Només en altres llengües	Sólo en otras lenguas	Only in other languages
+P43				7	Català i altres llengües	Catalán y otras lenguas	Catalan and other languages
+P43				8	Castellà i altres llengües	Castellano y otras lenguas	Spanish and anothers languages
+P43				9	Català, castellà i altra llengua	Catalán, castellano y otra lengua	Catalan, Spanish and another language
+P43				10	Només aranès	Sólo aranés	Only Aranese
+P43				11	Català i aranès	Catalán y aranés	Catalan and Aranese
+P43				12	Castellà i aranès	Castellano y aranés	Spanish and Aranese
+P43				13	Aranès i altra llengua	Aranés y otra lengua	Aranese and another language
+P43				14	Català, castellà i aranès	Catalán, castellano y aranés	Catalan, Spanish and Aranese
+P43				15	Català, aranès i altra llengua	Catalán, aranés y otra lengua	Catalan, Aranese and another language
+P43				16	Castellà, aranès i altra llengua	Castellano, aranés y otra lengua	Spanish, Aranese and another language
+P43				99	No consta	No consta	N/A
+P47	Llengua inicial de la parella	Lengua inicial de la pareja	Partner's initial language				
+P47				1	Català	Catalán	Catalan
+P47				2	Castellà	Castellano	Spanish
+P47				3	Català i castellà	Catalán y castellano	Catalan and Spanish
+P47				4	Aranès	Aranés	Aranese
+P47				99	No consta	No consta	N/A
+P47				105	Alemany	Alemán	German
+P47				107	Anglès	Inglés	English
+P47				108	Àrab	Árabe	Arabic
+P47				139	Francès	Francés	French
+P47				142	Gallec	Gallego	Galician
+P47				158	Italià	Italiano	Italian
+P47				193	Portuguès	Portugués	Portuguese
+P47				197	Romanès	Rumano	Romanian
+P47				198	Rus	Ruso	Russian
+P47				234	Xinès	Chino	Chinese
+P47				991	Berber Amazic	Berber Amazig	Berber Imazighen
+P47				998	Altres llengües	Otras lenguas	Other languages
+P47				999	Altres combinacions de llengües	Otras combinaciones de lenguas	Other language combinations
+P48	Indiqui el nombre de fills que té o ha tingut	Indique el número de hijos que tiene o ha tenido	State the number of children you have had or had				
+P48				0	Cap fill	Ningún hijo	No children
+P48				1	1 fill/a	1 hijo/a	1 children
+P48				2	2 fills/es	2 hijos/as	2 children
+P48				3	3 fills/es	3 hijos/as	3 children
+P48				4	4 fills/es	4 hijos/as	4 children
+P48				5	5 fills/es o més	5 hijos/as o más	5 children or more
+P50A	On va néixer el primer fill?	¿Dónde nació su primer hijo?	Where was your first child born?				
+P50A				1	Catalunya	Cataluña	Catalonia
+P50A				2	Resta d’Espanya	Resto de España	Rest of Spain
+P50A				3	Estranger	Extranjero	Abroad
+P50A				99	No consta	No consta	N/A
+P50B	On va néixer el segon fill?	¿Dónde nació su segundo hijo?	Where was your second child born?				
+P50B				1	Catalunya	Cataluña	Catalonia
+P50B				2	Resta d’Espanya	Resto de España	Rest of Spain
+P50B				3	Estranger	Extranjero	Abroad
+P50B				99	No consta	No consta	N/A
+P50C	On va néixer el tercer fill?	¿Dónde nació el tercer hijo?	Where was your third child born?				
+P50C				1	Catalunya	Cataluña	Catalonia
+P50C				2	Resta d’Espanya	Resto de España	Rest of Spain
+P50C				3	Estranger	Extranjero	Abroad
+P50C				99	No consta	No consta	N/A
+P51A	Vostè, amb el primer fill, en quina llengua parla o parlava?	¿Usted, con su primer hijo, en qué lengua habla o hablaba...?	With your first child, what language do you or did you speak...?				
+P51A				1	Només en català	Sólo en catalán	Only in Catalan
+P51A				2	Més en català que en castellà	Más en catalán que en castellano	More in Catalan than in Spanish 
+P51A				3	Igual en català i en castellà	Igual en catalán y en castellano	Same in Catalan and Spanish
+P51A				4	Més en castellà que en català	Más en castellano que en catalán	More in Spanish than in Catalan
+P51A				5	Només en castellà	Sólo en castellano	Only in Spanish
+P51A				6	Només en altra/es llengües	Sólo en otra/s lenguas	Only in another/s languages
+P51A				7	En català i altra/es llengües	En catalán y otra/s lenguas	In Catalan and another/s languages
+P51A				8	En castellà i altra/es llengües	En castellano y otra/s lenguas	In Spanish and another/s languages
+P51A				9	En català, castellà i altra/es llengües	En catalán, castellano y otra/s lenguas	In Catalan, Spanish and another/s languages
+P51A				10	Només en aranès	Sólo en aranés	Only in Aranese
+P51A				11	En català i aranès	En catalán y aranés	In Catalan and Aranese
+P51A				12	En castellà i aranès	En castellano y aranés	In Spanish and Aranese
+P51A				13	En aranès i altra/es llengües	En aranés y otra/s lenguas	In Aranese and another/s languages
+P51A				14	En català, castellà i aranès	En catalán, castellano y aranés	In Catalan, Spanish and Aranese
+P51A				15	En català, aranès i altra/es llengües	En catalán, aranés y otra/s lenguas	In Catalan, Aranese and another/s languages
+P51A				16	En castellà, aranès i altra/es llengües	En castellano, aranés y otra/s lenguas	In Spanish, Aranese and another/s languages
+P51A				99	No consta	No consta	N/A
+P51B	Vostè, amb el segon fill, en quina llengua parla o parlava?	¿Usted, con su segundo hijo, en qué lengua habla o hablaba...?	With your second child, what language do you or did you speak...?				
+P51B				1	Només en català	Sólo en catalán	Only in Catalan
+P51B				2	Més en català que en castellà	Más en catalán que en castellano	More in Catalan than in Spanish 
+P51B				3	Igual en català i en castellà	Igual en catalán y en castellano	Same in Catalan and Spanish
+P51B				4	Més en castellà que en català	Más en castellano que en catalán	More in Spanish than in Catalan
+P51B				5	Només en castellà	Sólo en castellano	Only in Spanish
+P51B				6	Només en altra/es llengües	Sólo en otra/s lenguas	Only in another/s languages
+P51B				7	En català i altra/es llengües	En catalán y otra/s lenguas	In Catalan and another/s languages
+P51B				8	En castellà i altra/es llengües	En castellano y otra/s lenguas	In Spanish and another/s languages
+P51B				9	En català, castellà i altra/es llengües	En catalán, castellano y otra/s lenguas	In Catalan, Spanish and another/s languages
+P51B				10	Només en aranès	Sólo en aranés	Only in Aranese
+P51B				11	En català i aranès	En catalán y aranés	In Catalan and Aranese
+P51B				12	En castellà i aranès	En castellano y aranés	In Spanish and Aranese
+P51B				13	En aranès i altra/es llengües	En aranés y otra/s lenguas	In Aranese and another/s languages
+P51B				14	En català, castellà i aranès	En catalán, castellano y aranés	In Catalan, Spanish and Aranese
+P51B				15	En català, aranès i altra/es llengües	En catalán, aranés y otra/s lenguas	In Catalan, Aranese and another/s languages
+P51B				16	En castellà, aranès i altra/es llengües	En castellano, aranés y otra/s lenguas	In Spanish, Aranese and another/s languages
+P51B				99	No consta	No consta	N/A
+P51C	Vostè, amb el tercer fill, en quina llengua parla o parlava?	¿Usted, con su tercer hijo, en qué lengua habla o habla...?	With your third child, what language do you or did you speak...?				
+P51C				1	Només en català	Sólo en catalán	Only in Catalan
+P51C				2	Més en català que en castellà	Más en catalán que en castellano	More in Catalan than in Spanish 
+P51C				3	Igual en català i en castellà	Igual en catalán y en castellano	Same in Catalan and Spanish
+P51C				4	Més en castellà que en català	Más en castellano que en catalán	More in Spanish than in Catalan
+P51C				5	Només en castellà	Sólo en castellano	Only in Spanish
+P51C				6	Només en altra/es llengües	Sólo en otra/s lenguas	Only in another/s languages
+P51C				7	En català i altra/es llengües	En catalán y otra/s lenguas	In Catalan and another/s languages
+P51C				8	En castellà i altra/es llengües	En castellano y otra/s lenguas	In Spanish and another/s languages
+P51C				9	En català, castellà i altra/es llengües	En catalán, castellano y otra/s lenguas	In Catalan, Spanish and another/s languages
+P51C				10	Només en aranès	Sólo en aranés	Only in Aranese
+P51C				11	En català i aranès	En catalán y aranés	In Catalan and Aranese
+P51C				12	En castellà i aranès	En castellano y aranés	In Spanish and Aranese
+P51C				13	En aranès i altra/es llengües	En aranés y otra/s lenguas	In Aranese and another/s languages
+P51C				14	En català, castellà i aranès	En catalán, castellano y aranés	In Catalan, Spanish and Aranese
+P51C				15	En català, aranès i altra/es llengües	En catalán, aranés y otra/s lenguas	In Catalan, Aranese and another/s languages
+P51C				16	En castellà, aranès i altra/es llengües	En castellano, aranés y otra/s lenguas	In Spanish, Aranese and another/s languages
+P51C				99	No consta	No consta	N/A
+P56	Vostè, en general, amb els amics, en quina llengua parla?	Usted, por lo general, con sus amigos, ¿en qué lengua habla?	In general, with your friends, what language do you speak?				
+P56				1	Només català	Sólo catalán	Only Catalan
+P56				2	Més català que castellà	Más catalán que castellano	More Catalan than Spanish
+P56				3	Ambdues	Ambas	Both
+P56				4	Més castellà que català	Más castellano que catalán	More Spanish than Catalan
+P56				5	Només castellà	Sólo castellano	Only Spanish
+P56				6	Només en altres llengües	Sólo en otras lenguas	Only in other languages
+P56				7	Català i altres llengües	Catalán y otras lenguas	Catalan and other languages
+P56				8	Castellà i altres llengües	Castellano y otras lenguas	Spanish and anothers languages
+P56				9	Català, castellà i altra llengua	Catalán, castellano y otra lengua	Catalan, Spanish and another language
+P56				10	Només aranès	Sólo aranés	Only Aranese
+P56				11	Català i aranès	Catalán y aranés	Catalan and Aranese
+P56				12	Castellà i aranès	Castellano y aranés	Spanish and Aranese
+P56				13	Aranès i altra llengua	Aranés y otra lengua	Aranese and another language
+P56				14	Català, castellà i aranès	Catalán, castellano y aranés	Catalan, Spanish and Aranese
+P56				15	Català, aranès i altra llengua	Catalán, aranés y otra lengua	Catalan, Aranese and another language
+P56				16	Castellà, aranès i altra llengua	Castellano, aranés y otra lengua	Spanish, Aranese and another language
+P56				97	No tinc amics	No tengo amigos	I don't have friends
+P56				99	No consta	No consta	N/A
+P60	Vostè, amb els veïns, en quina llengua parla?	¿Usted, con sus vecinos, en qué lengua habla?	What language do you speak with your neighbours? 				
+P60				1	Només català	Sólo catalán	Only Catalan
+P60				2	Més català que castellà	Más catalán que castellano	More Catalan than Spanish
+P60				3	Ambdues	Ambas	Both
+P60				4	Més castellà que català	Más castellano que catalán	More Spanish than Catalan
+P60				5	Només castellà	Sólo castellano	Only Spanish
+P60				6	Només en altres llengües	Sólo en otras lenguas	Only in other languages
+P60				7	Català i altres llengües	Catalán y otras lenguas	Catalan and other languages
+P60				8	Castellà i altres llengües	Castellano y otras lenguas	Spanish and anothers languages
+P60				9	Català, castellà i altra llengua	Catalán, castellano y otra lengua	Catalan, Spanish and another language
+P60				10	Només aranès	Sólo aranés	Only Aranese
+P60				11	Català i aranès	Catalán y aranés	Catalan and Aranese
+P60				12	Castellà i aranès	Castellano y aranés	Spanish and Aranese
+P60				13	Aranès i altra llengua	Aranés y otra lengua	Aranese and another language
+P60				14	Català, castellà i aranès	Catalán, castellano y aranés	Catalan, Spanish and Aranese
+P60				15	Català, aranès i altra llengua	Catalán, aranés y otra lengua	Catalan, Aranese and another language
+P60				16	Castellà, aranès i altra llengua	Castellano, aranés y otra lengua	Spanish, Aranese and another language
+P60				97	No tinc veïns	No tengo vecinos	I don't have neighbors
+P60				99	No consta	No consta	N/A
+P64	En l'actualitat, està cursant algun tipus d'estudi o formació?	En la actualidad, ¿está cursando algún tipo de estudio o formación?	Are you currently studying or training?				
+P64				1	Sí	Sí	Yes
+P64				2	No	No	No
+P64				99	No consta	No consta	N/A
+P65	Quin tipus de formació realitza?	¿Qué tipo de formación realiza?	What kind of training do you do?				
+P65				1	Reglada (batxillerat, mòduls, universitària, doctorat, màsters d’universitat)	Reglada (bachillerato, módulos, universitaria, doctorado, másteres de universidad)	Regulated (baccalaureate, modules, university, doctorate, master's degrees)
+P65				2	No reglada (cursos d’informàtica, cursos d’idiomes...)	No reglada (cursos de informática, cursos de idiomas...)	Unregulated (computer courses, language courses, etc.)
+P65				3	Ambdues	Ambas	Both
+P65				99	No consta	No consta	N/A
+P66	Vostè, amb els companys d'estudis actuals, en quina llengua parla?	¿Usted, con sus compañeros de estudios actuales, en qué lengua habla?	With your current fellow students, what language do you speak?				
+P66				1	Només català	Sólo catalán	Only Catalan
+P66				2	Més català que castellà	Más catalán que castellano	More Catalan than Spanish
+P66				3	Ambdues	Ambas	Both
+P66				4	Més castellà que català	Más castellano que catalán	More Spanish than Catalan
+P66				5	Només castellà	Sólo castellano	Only Spanish
+P66				6	Només en altres llengües	Sólo en otras lenguas	Only in other languages
+P66				7	Català i altres llengües	Catalán y otras lenguas	Catalan and other languages
+P66				8	Castellà i altres llengües	Castellano y otras lenguas	Spanish and anothers languages
+P66				9	Català, castellà i altra llengua	Catalán, castellano y otra lengua	Catalan, Spanish and another language
+P66				10	Només aranès	Sólo aranés	Only Aranese
+P66				11	Català i aranès	Catalán y aranés	Catalan and Aranese
+P66				12	Castellà i aranès	Castellano y aranés	Spanish and Aranese
+P66				13	En aranès i en una altra llengua (o llengües)	En aranés y otra lengua (o lenguas)	In Aranese and another language (or languages)
+P66				14	Català, castellà i aranès	Catalán, castellano y aranés	Catalan, Spanish and Aranese
+P66				15	En català, aranès i en una altra llengua (o llengües)	En catalán, aranés y otra lengua (o lenguas)	In Catalan, Aranese and another language (or languages)
+P66				16	En castellà, aranès i en una altra llengua (o llengües)	En castellano, aranés y otra lengua (o lenguas)	In Spanish, Aranese and another language (or languages)
+P66				99	No consta	No consta	N/A
+P70	Quina és la seva relació amb l’activitat econòmica principal?	¿Cuál es su relación con la actividad económica principal?	What is its relationship with the main economic activity?				
+P70				1	Ocupat	Ocupado	Employed
+P70				2	Desocupat	Desempleado	Unemployed
+P70				3	Desocupat/ada que busca la primera feina	Desocupado/a que busca el primer trabajo	Unemployed looking for first job
+P70				4	Jubilat o pensionista	Jubilado o pensionista	Retired person or pensioner
+P70				5	Jubilat/ada o pensionista que no ha treballat abans	Jubilado/a o pensionista que no ha trabajado antes	Retired person or pensioner who has not worked before
+P70				6	Incapacitat/ada o amb invalidesa permanent	Incapacitado/a o con invalidez permanente	Permanently disabled
+P70				7	Estudiant	Estudiante	Student
+P70				8	Feines de la llar	Trabajos domésticos	Homemaker
+P70				9	Altres situacions laborals	Otras situaciones laborales	Other work situations
+P70				99	No consta	No consta	N/A
+P73	Per a qui treballa o treballava?	¿Para quién trabaja o trabajaba?	Who do you or did you work for?				
+P73				1	Per compte propi	Por cuenta propia	By him/herself
+P73				2	Assalariat/ada indefinit	Asalariado/da indefinido/a	Permanent employee
+P73				3	Assalariat/ada eventual	Asalariado/da eventual	Temporary employee
+P73				4	Membre d’una cooperativa	Miembro de una cooperativa	Member of a cooperative 
+P73				5	Ajut familiar	Ayuda familiar	Family support
+P73				99	No consta	No consta	N/A
+P74	Si treballa o treballava per compte propi, quants assalariats té o tenia?	Si trabaja o trabaja por cuenta propia, ¿cuántos asalariados tiene o tenía?	If you are or were self-employed, how many employees do you or did you have?				
+P74				1	Sense assalariats	Sin asalariados	No employees
+P74				2	D’1 a 4 assalariats	De 1 a 4 asalariados	From 1 to 4 employees
+P74				3	5 assalariats i més	5 asalariados y más	5 employees or more
+P74				99	No consta	No consta	N/A
+P75	Vostè, amb els companys de feina, en quina llengua parla o parlava?	¿Usted, con sus compañeros de trabajo, en qué lengua habla o hablaba?	With your work colleagues, what language do you or did you speak? 				
+P75				1	Només català	Sólo catalán	Only Catalan
+P75				2	Més català que castellà	Más catalán que castellano	More Catalan than Spanish
+P75				3	Ambdues	Ambas	Both
+P75				4	Més castellà que català	Más castellano que catalán	More Spanish than Catalan
+P75				5	Només castellà	Sólo castellano	Only Spanish
+P75				6	Només en una altra llengua (o llengües)	Sólo en otra lengua (o lenguas)	Only in another language (or languages)
+P75				7	En català i en una altra llengua (o llengües)	En catalán y otra lengua (o lenguas)	In Catalan and another language (or languages)
+P75				8	En castellà i en una altra llengua (o llengües)	En castellano y otra lengua (o lenguas)	In Spanish and another language (or languages)
+P75				9	En català, castellà i en una altra llengua (o llengües)	En catalán, catellano y otra lengua (o lenguas)	In Catalan, Spanish and another language (or languages)
+P75				10	Només aranès	Sólo aranés	Only Aranese
+P75				11	En català i aranès	En catalán y aranés	In Catalan and Aranese
+P75				12	En castellà i aranès	En castellano y aranés	In Spanish and Aranese
+P75				13	En aranès i en una altra llengua (o llengües)	En aranés y otra lengua (o lenguas)	In Aranese and another language (or languages)
+P75				14	En català, castellà i aranès	En catalán, castellano y aranés	In Catalan, Spanish and Aranese
+P75				15	En català, aranès i en una altra llengua (o llengües)	En catalán, aranés y otra lengua (o lenguas)	In Catalan, Aranese and another language (or languages)
+P75				16	En castellà, aranès i en una altra llengua (o llengües)	En castellano, aranés y otra lengua (o lenguas)	In Spanish, Aranese and another language (or languages)
+P75				97	No tinc companys de feina	No tengo compañeros de trabajo	I don't have co-workers
+P75				99	No consta	No consta	N/A
+P79	Vostè, a la feina, en quina llengua parla o parlava amb els usuaris o els clients de Catalunya?	¿Usted, en el trabajo, en qué lengua habla o hablaba con los usuarios o clientes de Cataluña?	At work, in what language do you or did you speak to users or customers in Catalonia?				
+P79				1	Només català	Sólo catalán	Only Catalan
+P79				2	Més català que castellà	Más catalán que castellano	More Catalan than Spanish
+P79				3	Ambdues	Ambas	Both
+P79				4	Més castellà que català	Más castellano que catalán	More Spanish than Catalan
+P79				5	Només castellà	Sólo castellano	Only Spanish
+P79				6	Només en una altra llengua (o llengües)	Sólo en otra lengua (o lenguas)	Only in another language (or languages)
+P79				7	En català i en una altra llengua (o llengües)	En catalán y otra lengua (o lenguas)	In Catalan and another language (or languages)
+P79				8	En castellà i en una altra llengua (o llengües)	En castellano y otra lengua (o lenguas)	In Spanish and another language (or languages)
+P79				9	En català, castellà i en una altra llengua (o llengües)	En catalán, catellano y otra lengua (o lenguas)	In Catalan, Spanish and another language (or languages)
+P79				10	Només aranès	Sólo aranés	Only Aranese
+P79				11	En català i aranès	En catalán y aranés	In Catalan and Aranese
+P79				12	En castellà i aranès	En castellano y aranés	In Spanish and Aranese
+P79				13	En aranès i en una altra llengua (o llengües)	En aranés y otra lengua (o lenguas)	In Aranese and another language (or languages)
+P79				14	En català, castellà i aranès	En catalán, castellano y aranés	In Catalan, Spanish and Aranese
+P79				15	En català, aranès i en una altra llengua (o llengües)	En catalán, aranés y otra lengua (o lenguas)	In Catalan, Aranese and another language (or languages)
+P79				16	En castellà, aranès i en una altra llengua (o llengües)	En castellano, aranés y otra lengua (o lenguas)	In Spanish, Aranese and another language (or languages)
+P79				88	No faig atenció al públic o a usuaris	No presto atención al público o a usuarios	I don't pay attention to the public or users
+P79				99	No consta	No consta	N/A
+P81	Vostè, quan va de botigues o petits comerços, en quina llengua parla?	¿Usted, cuando va de tiendas o pequeños comercios, en qué lengua habla?	When you go to shops or small businesses, what language do you speak?				
+P81				1	Només català	Sólo catalán	Only Catalan
+P81				2	Més català que castellà	Más catalán que castellano	More Catalan than Spanish
+P81				3	Ambdues	Ambas	Both
+P81				4	Més castellà que català	Más castellano que catalán	More Spanish than Catalan
+P81				5	Només castellà	Sólo castellano	Only Spanish
+P81				6	Només en una altra llengua (o llengües)	Sólo en otra lengua (o lenguas)	Only in another language (or languages)
+P81				7	En català i en una altra llengua (o llengües)	En catalán y otra lengua (o lenguas)	In Catalan and another language (or languages)
+P81				8	En castellà i en una altra llengua (o llengües)	En castellano y otra lengua (o lenguas)	In Spanish and another language (or languages)
+P81				9	En català, castellà i en una altra llengua (o llengües)	En catalán, catellano y otra lengua (o lenguas)	In Catalan, Spanish and another language (or languages)
+P81				10	Només aranès	Sólo aranés	Only Aranese
+P81				11	En català i aranès	En catalán y aranés	In Catalan and Aranese
+P81				12	En castellà i aranès	En castellano y aranés	In Spanish and Aranese
+P81				13	En aranès i en una altra llengua (o llengües)	En aranés y otra lengua (o lenguas)	In Aranese and another language (or languages)
+P81				14	En català, castellà i aranès	En catalán, castellano y aranés	In Catalan, Spanish and Aranese
+P81				15	En català, aranès i en una altra llengua (o llengües)	En catalán, aranés y otra lengua (o lenguas)	In Catalan, Aranese and another language (or languages)
+P81				16	En castellà, aranès i en una altra llengua (o llengües)	En castellano, aranés y otra lengua (o lenguas)	In Spanish, Aranese and another language (or languages)
+P81				97	No vaig a botigues o petits comerços	No voy a tiendas o pequeños comercios	I don't go to shops or small businesses
+P81				99	No consta	No consta	N/A
+P85	Vostè, quan va a grans establiments comercials com ara supermercats i hipermercats, en quina llengua parla?	¿Usted, cuando va a grandes establecimientos comerciales como supermercados e hipermercados, en qué lengua habla?	When you go to large commercial establishments such as supermarkets and hypermarkets, what language do you speak?				
+P85				1	Només català	Sólo catalán	Only Catalan
+P85				2	Més català que castellà	Más catalán que castellano	More Catalan than Spanish
+P85				3	Ambdues	Ambas	Both
+P85				4	Més castellà que català	Más castellano que catalán	More Spanish than Catalan
+P85				5	Només castellà	Sólo castellano	Only Spanish
+P85				6	Només en una altra llengua (o llengües)	Sólo en otra lengua (o lenguas)	Only in another language (or languages)
+P85				7	En català i en una altra llengua (o llengües)	En catalán y otra lengua (o lenguas)	In Catalan and another language (or languages)
+P85				8	En castellà i en una altra llengua (o llengües)	En castellano y otra lengua (o lenguas)	In Spanish and another language (or languages)
+P85				9	En català, castellà i en una altra llengua (o llengües)	En catalán, catellano y otra lengua (o lenguas)	In Catalan, Spanish and another language (or languages)
+P85				10	Només aranès	Sólo aranés	Only Aranese
+P85				11	En català i aranès	En catalán y aranés	In Catalan and Aranese
+P85				12	En castellà i aranès	En castellano y aranés	In Spanish and Aranese
+P85				13	En aranès i en una altra llengua (o llengües)	En aranés y otra lengua (o lenguas)	In Aranese and another language (or languages)
+P85				14	En català, castellà i aranès	En catalán, castellano y aranés	In Catalan, Spanish and Aranese
+P85				15	En català, aranès i en una altra llengua (o llengües)	En catalán, aranés y otra lengua (o lenguas)	In Catalan, Aranese and another language (or languages)
+P85				16	En castellà, aranès i en una altra llengua (o llengües)	En castellano, aranés y otra lengua (o lenguas)	In Spanish, Aranese and another language (or languages)
+P85				97	No vaig a grans establiments comercials	No voy a grandes establecimientos comerciales	I don't go to large commercial establishments
+P85				99	No consta	No consta	N/A
+P89	Vostè, quan s’adreça a bancs o caixes d’estalvis, en quina llengua parla?	¿Usted, cuando se dirige a bancos o cajas de ahorros, en qué lengua habla?	When you go to banks, what language do you speak?				
+P89				1	Només català	Sólo catalán	Only Catalan
+P89				2	Més català que castellà	Más catalán que castellano	More Catalan than Spanish
+P89				3	Ambdues	Ambas	Both
+P89				4	Més castellà que català	Más castellano que catalán	More Spanish than Catalan
+P89				5	Només castellà	Sólo castellano	Only Spanish
+P89				6	Només en una altra llengua (o llengües)	Sólo en otra lengua (o lenguas)	Only in another language (or languages)
+P89				7	En català i en una altra llengua (o llengües)	En catalán y otra lengua (o lenguas)	In Catalan and another language (or languages)
+P89				8	En castellà i en una altra llengua (o llengües)	En castellano y otra lengua (o lenguas)	In Spanish and another language (or languages)
+P89				9	En català, castellà i en una altra llengua (o llengües)	En catalán, catellano y otra lengua (o lenguas)	In Catalan, Spanish and another language (or languages)
+P89				10	Només aranès	Sólo aranés	Only Aranese
+P89				11	En català i aranès	En catalán y aranés	In Catalan and Aranese
+P89				12	En castellà i aranès	En castellano y aranés	In Spanish and Aranese
+P89				13	En aranès i en una altra llengua (o llengües)	En aranés y otra lengua (o lenguas)	In Aranese and another language (or languages)
+P89				14	En català, castellà i aranès	En catalán, castellano y aranés	In Catalan, Spanish and Aranese
+P89				15	En català, aranès i en una altra llengua (o llengües)	En catalán, aranés y otra lengua (o lenguas)	In Catalan, Aranese and another language (or languages)
+P89				16	En castellà, aranès i en una altra llengua (o llengües)	En castellano, aranés y otra lengua (o lenguas)	In Spanish, Aranese and another language (or languages)
+P89				97	No vaig a bancs o caixes d’estalvi	No voy a bancos o cajas de ahorro	I don't go to banks
+P89				99	No consta	No consta	N/A
+P93	Vostè, quan s’adreça a l’Administració local (ajuntament o altres), quina llengua parla (utilitza)?	¿Usted, cuando se dirige a la Administración local (ayuntamiento u otros), qué lengua habla (utiliza)?	When contacting local government officials (local council or others), what language do you speak (use)?				
+P93				1	Només català	Sólo catalán	Only Catalan
+P93				2	Més català que castellà	Más catalán que castellano	More Catalan than Spanish
+P93				3	Ambdues	Ambas	Both
+P93				4	Més castellà que català	Más castellano que catalán	More Spanish than Catalan
+P93				5	Només castellà	Sólo castellano	Only Spanish
+P93				6	Només en una altra llengua (o llengües)	Sólo en otra lengua (o lenguas)	Only in another language (or languages)
+P93				7	En català i en una altra llengua (o llengües)	En catalán y otra lengua (o lenguas)	In Catalan and another language (or languages)
+P93				8	En castellà i en una altra llengua (o llengües)	En castellano y otra lengua (o lenguas)	In Spanish and another language (or languages)
+P93				9	En català, castellà i en una altra llengua (o llengües)	En catalán, catellano y otra lengua (o lenguas)	In Catalan, Spanish and another language (or languages)
+P93				10	Només aranès	Sólo aranés	Only Aranese
+P93				11	En català i aranès	En catalán y aranés	In Catalan and Aranese
+P93				12	En castellà i aranès	En castellano y aranés	In Spanish and Aranese
+P93				13	En aranès i en una altra llengua (o llengües)	En aranés y otra lengua (o lenguas)	In Aranese and another language (or languages)
+P93				14	En català, castellà i aranès	En catalán, castellano y aranés	In Catalan, Spanish and Aranese
+P93				15	En català, aranès i en una altra llengua (o llengües)	En catalán, aranés y otra lengua (o lenguas)	In Catalan, Aranese and another language (or languages)
+P93				16	En castellà, aranès i en una altra llengua (o llengües)	En castellano, aranés y otra lengua (o lenguas)	In Spanish, Aranese and another language (or languages)
+P93				97	No m’adreço a l’Administració local	No me dirijo a la Administración local	I don't contact local government officials
+P93				99	No consta	No consta	N/A
+P97	Vostè, quan s’adreça a l’Administració de la Generalitat de Catalunya, quina llengua parla (utilitza)?	¿Usted, cuando se dirige a la Administración de la Generalidad de Cataluña, qué lengua habla (utiliza)?	When you contact officials of the Government of Catalonia , what language do you speak (use)?				
+P97				1	Només català	Sólo catalán	Only Catalan
+P97				2	Més català que castellà	Más catalán que castellano	More Catalan than Spanish
+P97				3	Ambdues	Ambas	Both
+P97				4	Més castellà que català	Más castellano que catalán	More Spanish than Catalan
+P97				5	Només castellà	Sólo castellano	Only Spanish
+P97				6	Només en una altra llengua (o llengües)	Sólo en otra lengua (o lenguas)	Only in another language (or languages)
+P97				7	En català i en una altra llengua (o llengües)	En catalán y otra lengua (o lenguas)	In Catalan and another language (or languages)
+P97				8	En castellà i en una altra llengua (o llengües)	En castellano y otra lengua (o lenguas)	In Spanish and another language (or languages)
+P97				9	En català, castellà i en una altra llengua (o llengües)	En catalán, catellano y otra lengua (o lenguas)	In Catalan, Spanish and another language (or languages)
+P97				10	Només aranès	Sólo aranés	Only Aranese
+P97				11	En català i aranès	En catalán y aranés	In Catalan and Aranese
+P97				12	En castellà i aranès	En castellano y aranés	In Spanish and Aranese
+P97				13	En aranès i en una altra llengua (o llengües)	En aranés y otra lengua (o lenguas)	In Aranese and another language (or languages)
+P97				14	En català, castellà i aranès	En catalán, castellano y aranés	In Catalan, Spanish and Aranese
+P97				15	En català, aranès i en una altra llengua (o llengües)	En catalán, aranés y otra lengua (o lenguas)	In Catalan, Aranese and another language (or languages)
+P97				16	En castellà, aranès i en una altra llengua (o llengües)	En castellano, aranés y otra lengua (o lenguas)	In Spanish, Aranese and another language (or languages)
+P97				97	No m’adreço a l’Administració de la Generalitat de Catalunya	No me dirijo a la Administración de la Generalitat de Catalunya	I don't contact officials of the Generalitat de Catalunya
+P97				99	No consta	No consta	N/A
+P101	Vostè, quan s’adreça a l’Administració de l’Estat a Catalunya (delegacions d’hisenda, oficines DNI, INSS, oficines d’estrangeria, etc.), quina llengua parla (utilitza)?	¿Usted, cuando se dirige a la Administración del Estado en Cataluña (delegaciones de hacienda, oficinas DNI, INSS, oficinas de extranjería, etc.), qué lengua habla (utiliza)?	When contacting the State Administration in Catalonia (tax offices, ID offices, INSS, immigration offices, etc.), what language do you speak (use)?				
+P101				1	Només català	Sólo catalán	Only Catalan
+P101				2	Més català que castellà	Más catalán que castellano	More Catalan than Spanish
+P101				3	Ambdues	Ambas	Both
+P101				4	Més castellà que català	Más castellano que catalán	More Spanish than Catalan
+P101				5	Només castellà	Sólo castellano	Only Spanish
+P101				6	Només en una altra llengua (o llengües)	Sólo en otra lengua (o lenguas)	Only in another language (or languages)
+P101				7	En català i en una altra llengua (o llengües)	En catalán y otra lengua (o lenguas)	In Catalan and another language (or languages)
+P101				8	En castellà i en una altra llengua (o llengües)	En castellano y otra lengua (o lenguas)	In Spanish and another language (or languages)
+P101				9	En català, castellà i en una altra llengua (o llengües)	En catalán, catellano y otra lengua (o lenguas)	In Catalan, Spanish and another language (or languages)
+P101				10	Només aranès	Sólo aranés	Only Aranese
+P101				11	En català i aranès	En catalán y aranés	In Catalan and Aranese
+P101				12	En castellà i aranès	En castellano y aranés	In Spanish and Aranese
+P101				13	En aranès i en una altra llengua (o llengües)	En aranés y otra lengua (o lenguas)	In Aranese and another language (or languages)
+P101				14	En català, castellà i aranès	En catalán, castellano y aranés	In Catalan, Spanish and Aranese
+P101				15	En català, aranès i en una altra llengua (o llengües)	En catalán, aranés y otra lengua (o lenguas)	In Catalan, Aranese and another language (or languages)
+P101				16	En castellà, aranès i en una altra llengua (o llengües)	En castellano, aranés y otra lengua (o lenguas)	In Spanish, Aranese and another language (or languages)
+P101				97	No m’adreço a l’Administració de l’Estat a Catalunya	No me dirijo a la Administración del Estado en Cataluña	I don't contact the State Administration in Catalonia 
+P101				99	No consta	No consta	N/A
+P105	Vostè, amb els metges, a la consulta, en quina llengua parla?	Usted, con los médicos, en la consulta, ¿en qué lengua habla?	When speaking to doctors, at doctors’ offices, what language do you speak?				
+P105				1	Només català	Sólo catalán	Only Catalan
+P105				2	Més català que castellà	Más catalán que castellano	More Catalan than Spanish
+P105				3	Ambdues	Ambas	Both
+P105				4	Més castellà que català	Más castellano que catalán	More Spanish than Catalan
+P105				5	Només castellà	Sólo castellano	Only Spanish
+P105				6	Només en una altra llengua (o llengües)	Sólo en otra lengua (o lenguas)	Only in another language (or languages)
+P105				7	En català i en una altra llengua (o llengües)	En catalán y otra lengua (o lenguas)	In Catalan and another language (or languages)
+P105				8	En castellà i en una altra llengua (o llengües)	En castellano y otra lengua (o lenguas)	In Spanish and another language (or languages)
+P105				9	En català, castellà i en una altra llengua (o llengües)	En catalán, catellano y otra lengua (o lenguas)	In Catalan, Spanish and another language (or languages)
+P105				10	Només aranès	Sólo aranés	Only Aranese
+P105				11	En català i aranès	En catalán y aranés	In Catalan and Aranese
+P105				12	En castellà i aranès	En castellano y aranés	In Spanish and Aranese
+P105				13	En aranès i en una altra llengua (o llengües)	En aranés y otra lengua (o lenguas)	In Aranese and another language (or languages)
+P105				14	En català, castellà i aranès	En catalán, castellano y aranés	In Catalan, Spanish and Aranese
+P105				15	En català, aranès i en una altra llengua (o llengües)	En catalán, aranés y otra lengua (o lenguas)	In Catalan, Aranese and another language (or languages)
+P105				16	En castellà, aranès i en una altra llengua (o llengües)	En castellano, aranés y otra lengua (o lenguas)	In Spanish, Aranese and another language (or languages)
+P105				97	No vaig al metge	No voy al médico	I don't go to the doctor
+P105				99	No consta	No consta	N/A
+P109	Vostè, quan escriu notes personals, en quina llengua escriu?	¿Usted, cuando escribe notas personales, en qué lengua escribe?	When you write personal notes, what language do you write in?				
+P109				1	Només català	Sólo catalán	Only Catalan
+P109				2	Més català que castellà	Más catalán que castellano	More Catalan than Spanish
+P109				3	Ambdues	Ambas	Both
+P109				4	Més castellà que català	Más castellano que catalán	More Spanish than Catalan
+P109				5	Només castellà	Sólo castellano	Only Spanish
+P109				6	Només en una altra llengua (o llengües)	Sólo en otra lengua (o lenguas)	Only in another language (or languages)
+P109				7	En català i en una altra llengua (o llengües)	En catalán y otra lengua (o lenguas)	In Catalan and another language (or languages)
+P109				8	En castellà i en una altra llengua (o llengües)	En castellano y otra lengua (o lenguas)	In Spanish and another language (or languages)
+P109				9	En català, castellà i en una altra llengua (o llengües)	En catalán, catellano y otra lengua (o lenguas)	In Catalan, Spanish and another language (or languages)
+P109				10	Només aranès	Sólo aranés	Only Aranese
+P109				11	En català i aranès	En catalán y aranés	In Catalan and Aranese
+P109				12	En castellà i aranès	En castellano y aranés	In Spanish and Aranese
+P109				13	En aranès i en una altra llengua (o llengües)	En aranés y otra lengua (o lenguas)	In Aranese and another language (or languages)
+P109				14	En català, castellà i aranès	En catalán, castellano y aranés	In Catalan, Spanish and Aranese
+P109				15	En català, aranès i en una altra llengua (o llengües)	En catalán, aranés y otra lengua (o lenguas)	In Catalan, Aranese and another language (or languages)
+P109				16	En castellà, aranès i en una altra llengua (o llengües)	En castellano, aranés y otra lengua (o lenguas)	In Spanish, Aranese and another language (or languages)
+P109				97	No escric missatges de mòbil	No escribo mensajes de móvil	I don't write mobile messages
+P109				99	No consta	No consta	N/A
+P116	Em podria indicar quin és el grau d'acord amb la frase següent: La parla de les Illes Balears, de la Comunitat Valenciana, d'Andorra i de Catalunya són maneres diferents de parlar la mateixa llengua. Vostè està?	Me podría indicar cuál es el grado de acuerdo con la siguiente frase: El habla de las Islas Baleares, de la Comunidad Valenciana, de Andorra y de Cataluña son formas diferentes de hablar la misma lengua. ¿Usted está?	Can you please tell me how much you agree with the following sentence: The languages of the Balearic Islands, the Valencian Community, Andorra and Catalonia are different ways of speaking the same language. Do you agree?				
+P116				1	Totalment d'acord	Totalmente de acuerdo	Strongly agree
+P116				2	Més aviat d'acord	Más bien de acuerdo	Rather agree
+P116				3	Més aviat en desacord	Más bien en desacuerdo	Somewhat disagree
+P116				4	Totalment en desacord	Totalmente en desacuerdo	Strongly disagree
+P116				5	Indiferent, no tinc opinió	Indiferente, no tengo opinión	Indifferent, I have no opinion
+P116				98	No ho sap	No lo sabe	Don’t know
+P116				99	No contesta	No contesta	No answer
+P117	Amb quina freqüència inicia les converses en català?	¿Con qué frecuencia inicia las conversaciones en catalán?	How often do you initiate conversations in Catalan?				
+P117				1	Sempre	Siempre	Always
+P117				2	Molt sovint	Muy a menudo	Frequently
+P117				3	Poques vegades	Pocas veces	Hardly ever
+P117				4	Mai	Nunca	Never
+P117				98	No ho sap	No lo sabe	Don’t know
+P117				99	No contesta	No contesta	No answer
+P118	Si vostè s'adreça a algú en català i aquesta persona li respon en castellà, vostè generalment què fa?	Si se dirige a alguien en catalán y esa persona le responde en castellano, ¿usted generalmente qué hace?	If you address someone in Catalan andthey reply in Spanish, what do you generally do?				
+P118				1	Segueixo parlant en català	Sigo hablando en catalán	I keep speaking in Catalan
+P118				2	Continuo la conversa en castellà	Continúo la conversación en castellano	I continue the conversation in Spanish
+P118				3	Interrompo la conversa	Interrumpo la conversación	I interrupt the conversation
+P118				4	Demano si em poden parlar en català	Pido si me pueden hablar en catalán	I ask if they can speak to me in Catalan
+P118				5	Mai s'adreça a ningú en català	Nunca se dirige a nadie en catalán	Never speaks to anyone in Catalan
+P118				99	No consta	No consta	N/A
+P119	Si vostè s'adreça a algú en castellà i aquesta persona li respon en català, vostè generalment què fa?	Si se dirige a alguien en castellano y esa persona le responde en catalán, ¿usted generalmente qué hace?	If you address someone in Spanish and they reply in Catalan, what do you generally do?				
+P119				1	Segueixo parlant en castellà	Sigo hablando en castellano	I keep speaking in Spanish
+P119				2	Continuo la conversa en català	Continúo la conversación en catalán	I continue the conversation in Catalan
+P119				3	Interrompo la conversa	Interrumpo la conversación	I interrupt the conversation
+P119				4	Demano si em poden parlar en castellà	Pido si me pueden hablar en español	I ask if they can speak to me in Spanish
+P119				5	Mai m'adreço a ningú en castellà	Nunca me dirijo a nadie en castellano	I never speak to anyone in Spanish
+P119				99	No consta	No consta	N/A
+P120	A parer seu, el català actualment s'usa...?	En su opinión, el catalán actualmente se usa...?	In your opinion, Catalan is currently used... 				
+P120				1	Molt	Mucho	A lot
+P120				2	Bastant	Bastante	A lot
+P120				3	Normal	Normal	Normal
+P120				4	Poc	Poco	Little
+P120				5	Gens	Nada	None
+P120				99	No consta	No consta	N/A
+P121	En general, socialment, pensa que el català s'usa més, igual o menys que fa 5 anys?	En general, socialmente, ¿cree que el catalán se usa más, igual o menos que hace 5 años?	In general, do you think Catalan is used socially more, the same or less than it was 5 years ago?				
+P121				1	Més	Más	More
+P121				2	Igual	Igual	Same
+P121				3	Menys	Menos	Less
+P121				99	No consta	No consta	N/A
+P122	A parer seu, creu que en els propers 5 anys el català s'usarà més, igual o menys que avui dia?	En su opinión, ¿cree que en los próximos 5 años el catalán se usará más, igual o menos que hoy en día?	In your opinion, do you think that in the next 5 years Catalan will be used more, the same or less than it is today?				
+P122				1	Més	Más	More
+P122				2	Igual	Igual	Same
+P122				3	Menys	Menos	Less
+P122				99	No consta	No consta	N/A
+P123	Sabia que la llengua occitana, denominada aranès a la Vall d’Aran, és llengua oficial a Catalunya a més del català i el castellà?	¿Sabía que la lengua occitana, denominada aranés en Val d'Aran, es lengua oficial en Cataluña además del catalán y el castellano?	Did you know that the Occitan language, called Aranese in Val d'Aran, is an official language in Catalonia in addition to Catalan and Spanish?				
+P123				1	Sí	Sí	Yes
+P123				2	No	No	No
+P123				99	No contesta	No contesta	No answer
+P124	A vostè, en el futur, en la seva vida quotidiana a Catalunya li agradaria parlar (utilitzar)...	A usted, en el futuro, en su vida cotidiana en Cataluña le gustaría hablar (utilizar)...	In the future, in your daily life in Catalonia, would you like to speak (use)...?				
+P124				1	Només català	Sólo catalán	Only Catalan
+P124				2	Més català que castellà	Más catalán que castellano	More Catalan than Spanish
+P124				3	Ambdues	Ambas	Both
+P124				4	Més castellà que català	Más castellano que catalán	More Spanish than Catalan
+P124				5	Només castellà	Sólo castellano	Only Spanish
+P124				6	Només en una altra llengua (o llengües)	Sólo en otra lengua (o lenguas)	Only in another language (or languages)
+P124				7	En català i en una altra llengua (o llengües)	En catalán y otra lengua (o lenguas)	In Catalan and another language (or languages)
+P124				8	En castellà i en una altra llengua (o llengües)	En castellano y otra lengua (o lenguas)	In Spanish and another language (or languages)
+P124				9	En català, castellà i en una altra llengua (o llengües)	En catalán, catellano y otra lengua (o lenguas)	In Catalan, Spanish and another language (or languages)
+P124				10	Només aranès	Sólo aranés	Only Aranese
+P124				11	En català i aranès	En catalán y aranés	In Catalan and Aranese
+P124				12	En castellà i aranès	En castellano y aranés	In Spanish and Aranese
+P124				13	En aranès i en una altra llengua (o llengües)	En aranés y otra lengua (o lenguas)	In Aranese and another language (or languages)
+P124				14	En català, castellà i aranès	En catalán, castellano y aranés	In Catalan, Spanish and Aranese
+P124				15	En català, aranès i en una altra llengua (o llengües)	En catalán, aranés y otra lengua (o lenguas)	In Catalan, Aranese and another language (or languages)
+P124				16	En castellà, aranès i en una altra llengua (o llengües)	En castellano, aranés y otra lengua (o lenguas)	In Spanish, Aranese and another language (or languages)
+P124				99	No consta	No consta	N/A
+P128A_1	Avaluï el coneixement que té de les diferents llengües en una escala, des de 0, que vol dir "gens ni mica", fins a 10, que vol dir "perfectament" (Entendre el Català)	Evalúe el conocimiento que tiene de las diferentes lenguas en una escala, desde 0, que significa "nada", hasta 10, que significa "perfectamente" (Entender el Catalán)	Assess your knowledge of the different languages on a scale, from 0, which means “not at all”, to 10, which means “perfectly” (Understanding Catalan)				
+P128A_2	Avaluï el coneixement que té de les diferents llengües en una escala, des de 0, que vol dir "gens ni mica", fins a 10, que vol dir "perfectament" (Parlar el Català)	Evalúe el conocimiento que tiene de las diferentes lenguas en una escala, desde 0, que significa "nada", hasta 10, que significa "perfectamente" (Hablar el Catalán)	Assess your knowledge of the different languages on a scale, from 0, which means “not at all”, to 10, which means “perfectly” (Speaking Catalan)				
+P128A_3	Avaluï el coneixement que té de les diferents llengües en una escala, des de 0, que vol dir "gens ni mica", fins a 10, que vol dir "perfectament" (Llegir el Català)	Evalúe el conocimiento que tiene de las diferentes lenguas en una escala, desde 0, que significa "nada", hasta 10, que significa "perfectamente" (Leer el Catalán)	Assess your knowledge of the different languages on a scale, from 0, which means “not at all”, to 10, which means “perfectly” (Reading Catalan)				
+P128A_4	Avaluï el coneixement que té de les diferents llengües en una escala, des de 0, que vol dir "gens ni mica", fins a 10, que vol dir "perfectament" (Escriure el Català)	Evalúe el conocimiento que tiene de las diferentes lenguas en una escala, desde 0, que significa "nada", hasta 10, que significa "perfectamente" (Escribir Catalán)	Assess your knowledge of the different languages on a scale, from 0, which means “not at all”, to 10, which means “perfectly” (Writing Catalan)				
+P128B_1	Avaluï el coneixement que té de les diferents llengües en una escala, des de 0, que vol dir "gens ni mica", fins a 10, que vol dir "perfectament" (Entendre el Castellà)	Evalúe el conocimiento que tiene de las diferentes lenguas en una escala, desde 0, que significa "nada", hasta 10, que significa "perfectamente" (Entender el Castellano)	Assess your knowledge of the different languages on a scale, from 0, which means “not at all”, to 10, which means “perfectly” (Understanding Spanish)				
+P128B_2	Avaluï el coneixement que té de les diferents llengües en una escala, des de 0, que vol dir "gens ni mica", fins a 10, que vol dir "perfectament" (Parlar el Castellà)	Evalúe el conocimiento que tiene de las diferentes lenguas en una escala, desde 0, que significa "nada", hasta 10, que significa "perfectamente" (Hablar el Castellano)	Assess your knowledge of the different languages on a scale, from 0, which means “not at all”, to 10, which means “perfectly” (Speaking Spanish)				
+P128B_3	Avaluï el coneixement que té de les diferents llengües en una escala, des de 0, que vol dir "gens ni mica", fins a 10, que vol dir "perfectament" (Llegir el Castellà)	Evalúe el conocimiento que tiene de las diferentes lenguas en una escala, desde 0, que significa "nada", hasta 10, que significa "perfectamente" (Leer el Castellano)	Assess your knowledge of the different languages on a scale, from 0, which means “not at all”, to 10, which means “perfectly” (Reading Spanish)				
+P128B_4	Avaluï el coneixement que té de les diferents llengües en una escala, des de 0, que vol dir "gens ni mica", fins a 10, que vol dir "perfectament" (Escriure el Castellà)	Evalúe el conocimiento que tiene de las diferentes lenguas en una escala, desde 0, que significa "nada", hasta 10, que significa "perfectamente" (Escribir Castellano)	Assess your knowledge of the different languages on a scale, from 0, which means “not at all”, to 10, which means “perfectly” (Writing Spanish)				
+P128C_1	Avaluï el coneixement que té de les diferents llengües en una escala, des de 0, que vol dir "gens ni mica", fins a 10, que vol dir "perfectament" (Entendre l'Aranès)	Evalúe el conocimiento que tiene de las diferentes lenguas en una escala, desde 0, que significa "nada", hasta 10, que significa "perfectamente" (Entender el Aranés)	Assess your knowledge of the different languages on a scale, from 0, which means “not at all”, to 10, which means “perfectly” (Understanding Aranese)				
+P128C_2	Avaluï el coneixement que té de les diferents llengües en una escala, des de 0, que vol dir "gens ni mica", fins a 10, que vol dir "perfectament" (Parlar l'Aranès)	Evalúe el conocimiento que tiene de las diferentes lenguas en una escala, desde 0, que significa "nada", hasta 10, que significa "perfectamente" (Hablar el Aranés)	Assess your knowledge of the different languages on a scale, from 0, which means “not at all”, to 10, which means “perfectly” (Speaking Aranese)				
+P128C_3	Avaluï el coneixement que té de les diferents llengües en una escala, des de 0, que vol dir "gens ni mica", fins a 10, que vol dir "perfectament" (Llegir l'Aranès)	Evalúe el conocimiento que tiene de las diferentes lenguas en una escala, desde 0, que significa "nada", hasta 10, que significa "perfectamente" (Leer el Aranés)	Assess your knowledge of the different languages on a scale, from 0, which means “not at all”, to 10, which means “perfectly” (Reading Aranese)				
+P128C_4	Avaluï el coneixement que té de les diferents llengües en una escala, des de 0, que vol dir "gens ni mica", fins a 10, que vol dir "perfectament" (Escriure l'Aranès)	Evalúe el conocimiento que tiene de las diferentes lenguas en una escala, desde 0, que significa "nada", hasta 10, que significa "perfectamente" (Escribir Aranés)	Assess your knowledge of the different languages on a scale, from 0, which means “not at all”, to 10, which means “perfectly” (Writing Aranese)				
+P128D_1	Avaluï el coneixement que té de les diferents llengües en una escala, des de 0, que vol dir "gens ni mica", fins a 10, que vol dir "perfectament" (Entendre el Francès)	Evalúe el conocimiento que tiene de las diferentes lenguas en una escala, desde 0, que significa "nada", hasta 10, que significa "perfectamente" (Entender el Francés)	Assess your knowledge of the different languages on a scale, from 0, which means “not at all”, to 10, which means “perfectly” (Understanding French)				
+P128D_2	Avaluï el coneixement que té de les diferents llengües en una escala, des de 0, que vol dir "gens ni mica", fins a 10, que vol dir "perfectament" (Parlar el Francès)	Evalúe el conocimiento que tiene de las diferentes lenguas en una escala, desde 0, que significa "nada", hasta 10, que significa "perfectamente" (Hablar el Francés)	Assess your knowledge of the different languages on a scale, from 0, which means “not at all”, to 10, which means “perfectly” (Speaking French)				
+P128D_3	Avaluï el coneixement que té de les diferents llengües en una escala, des de 0, que vol dir "gens ni mica", fins a 10, que vol dir "perfectament" (Llegir el Francès)	Evalúe el conocimiento que tiene de las diferentes lenguas en una escala, desde 0, que significa "nada", hasta 10, que significa "perfectamente" (Leer el Francés)	Assess your knowledge of the different languages on a scale, from 0, which means “not at all”, to 10, which means “perfectly” (Reading French)				
+P128D_4	Avaluï el coneixement que té de les diferents llengües en una escala, des de 0, que vol dir "gens ni mica", fins a 10, que vol dir "perfectament" (Escriure el Francès)	Evalúe el conocimiento que tiene de las diferentes lenguas en una escala, desde 0, que significa "nada", hasta 10, que significa "perfectamente" (Escribir Francés)	Assess your knowledge of the different languages on a scale, from 0, which means “not at all”, to 10, which means “perfectly” (Writing French)				
+P128E_1	Avaluï el coneixement que té de les diferents llengües en una escala, des de 0, que vol dir "gens ni mica", fins a 10, que vol dir "perfectament" (Entendre l'Anglès)	Evalúe el conocimiento que tiene de las diferentes lenguas en una escala, desde 0, que significa "nada", hasta 10, que significa "perfectamente" (Entender el Inglés)	Assess your knowledge of the different languages on a scale, from 0, which means “not at all”, to 10, which means “perfectly” (Understanding English)				
+P128E_2	Avaluï el coneixement que té de les diferents llengües en una escala, des de 0, que vol dir "gens ni mica", fins a 10, que vol dir "perfectament" (Parlar l'Anglès)	Evalúe el conocimiento que tiene de las diferentes lenguas en una escala, desde 0, que significa "nada", hasta 10, que significa "perfectamente" (Hablar el Inglés)	Assess your knowledge of the different languages on a scale, from 0, which means “not at all”, to 10, which means “perfectly” (Speaking English)				
+P128E_3	Avaluï el coneixement que té de les diferents llengües en una escala, des de 0, que vol dir "gens ni mica", fins a 10, que vol dir "perfectament" (Llegir l'Anglès)	Evalúe el conocimiento que tiene de las diferentes lenguas en una escala, desde 0, que significa "nada", hasta 10, que significa "perfectamente" (Leer el Inglés)	Assess your knowledge of the different languages on a scale, from 0, which means “not at all”, to 10, which means “perfectly” (Reading English)				
+P128E_4	Avaluï el coneixement que té de les diferents llengües en una escala, des de 0, que vol dir "gens ni mica", fins a 10, que vol dir "perfectament" (Escriure l'Anglès)	Evalúe el conocimiento que tiene de las diferentes lenguas en una escala, desde 0, que significa "nada", hasta 10, que significa "perfectamente" (Escribir Inglés)	Assess your knowledge of the different languages on a scale, from 0, which means “not at all”, to 10, which means “perfectly” (Writing English)				
+P129	Al marge de la formació reglada, vostè ha fet algun curs de català per a adults?	Al margen de la formación reglada, ¿usted ha realizado algún curso de catalán para adultos?	Apart from formal training, have you taken any Catalan courses for adults? 				
+P129				1	Sí	Sí	Yes
+P129				2	No	No	No
+P129				99	No consta	No consta	N/A
+P130	Estaria interessat a aprendre català o millorar-ne els coneixements?	¿Estaría interesado en aprender catalán o mejorar sus conocimientos?	Would you be interested in learning Catalan or improving your knowledge of it?				
+P130				1	Sí	Sí	Yes
+P130				2	No	No	No
+P130				99	No consta	No consta	N/A
+P130A	Per què estaria interessat a aprendre català o millorar-ne els coneixements	Por qué estaría interesado en aprender catalán o mejorar sus conocimientos	Why you would be interested in learning Catalan or improving their knowledge of it				
+P130A				1	Per poder parlar o escriure en català en les meves relacions personals	Para poder hablar o escribir catalán en mis relaciones personales	To be able to speak or write in Catalan in my personal relationships
+P130A				2	Per ajudar els fills	Para ayudar a los hijos	To help the children
+P130A				3	Per trobar feina o accedir a un lloc de treball millor	Para encontrar trabajo o acceder a un puesto de trabajo mejor	To find a job or get a better job
+P130A				4	Perquè me l'exigeixen a la feina o perquè em presento a oposicions	Porque me lo exigen en el trabajo o porque me presento a oposiciones	Because my employer requires it or I am doing Civil Service exams
+P130A				5	Perquè és normal saber català si vius a Catalunya	Porque es normal saber catalán si vives en Cataluña	Because it is normal to know Catalan if you live in Catalonia
+P130A				6	Per perfeccionar-lo	Para perfeccionarlo	To perfect it
+P130A				7	Altres raons	Otras razones	Other reasons
+P130B	Per què no estaria interessat a aprendre català o millorar-ne els coneixements	Por qué no estaría interesado en aprender catalán o mejorar sus conocimientos	Why wouldn't you be interested in learning Catalan or improving their knowledge of it				
+P130B				1	Perquè ja en sé prou	Porque ya sé bastante	Because I already know enough
+P130B				2	Perquè no tinc temps	Porque no tengo tiempo	Because I don't have time
+P130B				3	Perquè no ho considero necessari	Porque no lo considero necesario	Because I don't consider it necessary
+P130B				4	Altres raons	Otras razones	Other reasons
+P130B				5	Perquè és massa gran	Porque es demasiado grande	Because it's too big
+P131	Lloc de naixement	Lugar de nacimiento	Place of birth				
+P131				1	Catalunya	Cataluña	Catalonia
+P131				2	Resta d'Espanya	Resto de España	Rest of Spain
+P131				3	Estranger	Extranjero	Abroad
+P132	Quan va arribar a Catalunya per primera vegada?	¿Cuándo llegó a Cataluña por primera vez?	When did you arrive to Catalonia for the first time?				
+P134	Nivell d'estudis de la persona entrevistada	Nivel de estudios de la persona entrevistada	Interviewee's education level				
+P134				1	Sense estudis	Sin estudios	No education
+P134				2	Estudis primaris	Estudios primarios	Primary education
+P134				3	Estudis secundaris	Estudios secundarios	Secondary education
+P134				4	Estudis universitaris	Estudios universitarios	University education
+P134				99	No consta	No consta	N/A
+P135	Quina és la seva nacionalitat actualment?	Cuál es su nacionalidad en ese momento?	What your current nationality is?				
+P135				1	Espanyola	Española	Spanish
+P135				2	Estrangera	Extranjera	Foreign
+P135				3	Espanyola i una altra	Española y otra	Spanish and other language
+P135				99	No consta	No consta	N/A
+SEXE	Sexe	Sexo	Sex				
+SEXE				1	Home	Hombre	Man
+SEXE				6	Dona	Mujer	Woman
+SIT_PROF	Situació professional	Situación profesional	Professional status				
+SIT_PROF				1	Empresari amb menys de 5 assalariats	Empresario con menos de 5 asalariados	Employer with fewer than 5 employees
+SIT_PROF				2	Empresari amb 5 assalariats i més	Empresario con 5 asalariados y más	Employer with 5 employees or more
+SIT_PROF				3	Autònom	Autónomo	Self-employed
+SIT_PROF				4	Assalariat indefinit	Asalariado indefinido	Permanent employee
+SIT_PROF				5	Assalariat eventual	Asalariado eventual	Temporary employee
+SIT_PROF				6	Membre cooperativa o ajut familiar	Miembro de una cooperativa o ayuda familiar	Member of a cooperative or domestic help
+SIT_PROF				99	No consta	No consta	N/A
+AMBIT_TERRITORIAL	Àmbits Pla Territorial de Catalunya	Ámbitos Plan Territorial de Cataluña	Areas of the Territorial Plan of Catalonia				
+AMBIT_TERRITORIAL				1	Metropolità	Metropolitano	Metropolitan Area
+AMBIT_TERRITORIAL				2	Comarques Gironines	Comarcas de Girona	Girona Counties
+AMBIT_TERRITORIAL				3	Camp de Tarragona	Camp de Tarragona	Camp de Tarragona
+AMBIT_TERRITORIAL				4	Terres de l'Ebre	Terres de l'Ebre	Terres de l'Ebre
+AMBIT_TERRITORIAL				5	Ponent	Ponent	Ponent Area
+AMBIT_TERRITORIAL				6	Comarques Centrals	Comarcas Centrales	Central Counties
+AMBIT_TERRITORIAL				7	Alt Pirineu i Aran	Alt Pirineu i Aran	Alt Pirineu i Aran
+AMBIT_TERRITORIAL				8	Penedès	Penedès	Penedès
+EDAT_5	Grups quinquennals edat	Grupos quinquenales edad	Five year age groups				
+EDAT_5				1	De 15 a 19 anys	De 15 a 19 años	From 15 to 19 years
+EDAT_5				2	De 20 a 24 anys	De 20 a 24 años	From 20 to 24 years
+EDAT_5				3	De 25 a 29 anys	De 25 a 29 años	From 25 to 29 years
+EDAT_5				4	De 30 a 34 anys	De 30 a 34 años	From 30 to 34 years
+EDAT_5				5	De 35 a 39 anys	De 35 a 39 años	From 35 to 39 years
+EDAT_5				6	De 40 a 44 anys	De 40 a 44 años	From 40 to 44 years
+EDAT_5				7	De 45 a 49 anys	De 45 a 49 años	From 45 to 49 years
+EDAT_5				8	De 50 a 54 anys	De 50 a 54 años	From 50 to 54 years
+EDAT_5				9	De 55 a 59 anys	De 55 a 59 años	From 55 to 59 years
+EDAT_5				10	De 60 a 64 anys	De 60 a 64 años	From 60 to 64 years
+EDAT_5				11	De 65 a 69 anys	De 65 a 69 años	From 65 to 69 years
+EDAT_5				12	De 70 a 74 anys	De 70 a 74 años	From 70 to 74 years
+EDAT_5				13	De 75 a 79 anys	De 75 a 79 años	From 75 to 79 years
+EDAT_5				14	De 80 a 84 anys	De 80 a 84 años	From 80 to 84 years
+EDAT_5				15	De 85 a 89 anys	De 85 a 89 años	From 85 to 89 years
+EDAT_5				16	De 90 anys i més	De 90 años y más	90 years and over
+CAL	Factor d'elevació multiplicat per 1000 (Factor elevació real = CAL / 1000)	Factor de elevación multiplicado por 1000 (Factor elevación real = CAL / 1000)	Inflation factor multiplied by 1000 (Actual Inflation factor = CAL / 1000)				
