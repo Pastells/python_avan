@@ -1,0 +1,17 @@
+{
+    "preferences": {
+        "formatteroptions": {
+            "black": {
+                "args": [],
+                "enable": true,
+                "style": ""
+            }
+        },
+        "formatterpath": {
+            "black": "black"
+        },
+        "formatterpythonpath": [],
+        "formatterpythonpathappend": false
+    }
+}
+

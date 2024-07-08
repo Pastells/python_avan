@@ -1,4 +1,7 @@
+black
 icecream
+jupyterlab-code-formatter
+jupyterlab-lsp
 matplotlib
 nltk
 numpy
