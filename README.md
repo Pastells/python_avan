@@ -32,14 +32,14 @@ i farem servir la llibreria `huggingface`.
 
 ## Apartats del curs (aproximats)
 
-1. Repàs general; strings, llistes i diccionaris; Collections comprehensions
+1. Repàs general; strings, llistes i diccionaris; Collections i comprehensions
 2. Paquest científics
     1. Numpy
     2. Pandas
     3. Matplotlib
 3. Model generació noms amb N-grames
-4. Introducció a les classes
-5. Projectes, debugging, PEP 8 i black
+4. Estructura projectes i guia d'estil
+5. Introducció a les classes (si no s'han vist)
 6. Més Matplotlib i Seaborn
 7. Aprenentatge automàtic
     1. SpaCy
@@ -54,36 +54,3 @@ i farem servir la llibreria `huggingface`.
     Tunstall, L., Von Werra, L., & Wolf, T. (2022). Natural language processing with transformers. " O'Reilly Media, Inc.".
     https://github.com/dabeaz-course/practical-python
     https://github.com/dabeaz-course/python-mastery
-
-
-
-# Altres
-
-## Cursos introductoris
-
-https://github.com/dirkhovy/python_for_linguists/blob/master/Python%20for%20Linguists.ipynb
-
-https://github.com/Alex-bzh/python-M1TAL
-
-https://dabeaz-course.github.io/practical-python/Notes/Contents.html
-
-## Zipf
-
-https://goodresearch.dev/zipf.html
-
-
-## Estilometria
-
-https://github.com/SupervisedStylometry/SuperStyl
-
-https://colab.research.google.com/github/fastdatascience/faststylometry/blob/main/Burrows%20Delta%20Walkthrough.ipynb
-
-https://programminghistorian.org/en/lessons/introduction-to-stylometry-with-python#third-stylometric-test-john-burrows-delta-method-advanced
-
-https://github.com/mikekestemont/pystyl/blob/master/A%20Walk%20Through%20PyStyl.ipynb
-
-https://github.com/jpotts18/stylometry
-
-## Visualització
-
-https://programminghistorian.org/en/lessons/visualizing-with-bokeh
