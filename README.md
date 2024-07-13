@@ -3,7 +3,7 @@
 <a href="https://githubtocolab.com/Pastells/python_avan"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a>
 </p>
 
-# Curs de python avançat (en procés de creació)
+# Curs de python avançat
 
 Aquest curs està orientat a humanistes que vulguin ampliar els seus coneixements de programació amb Python.
 En concret, estarà enfocat al processament del llenguatge natural.
