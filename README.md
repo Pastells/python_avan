@@ -30,23 +30,21 @@ visualitzar les dades i els resultats amb `matplotlib` i `seaborn`.
 A més aprendrem a partir de projectes: crearem un model de llenguatge a partir d'n-grames
 i farem servir la llibreria `huggingface`.
 
-## Apartats del curs (aproximats)
+## Apartats del curs
 
 1. Repàs general; strings, llistes i diccionaris; Collections i comprehensions
 2. Paquest científics
     1. Numpy
     2. Pandas
     3. Matplotlib
+    4. Seaborn
 3. Model generació noms amb N-grames
 4. Estructura projectes i guia d'estil
 5. Introducció a les classes (si no s'han vist)
-6. Més Matplotlib i Seaborn
-7. Aprenentatge automàtic
-    1. SpaCy
-    2. HuggingFace
+6. HuggingFace
 
 
-# Referències
+# Referències generals
 
 
     McKinney, W. (2013). Python for data analysis. " O'Reilly Media, Inc.".
