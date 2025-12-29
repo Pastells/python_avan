@@ -17,9 +17,8 @@ què són els bucles, les decisions (`if` i `else`) i les funcions; i com trebal
 
 Si no has vist mai python pots començar amb qualsevol introducció que trobis en línea.
 Per exemple:
-- [Aquest en castellà](https://www.youtube.com/watch?v=Kp4Mvapo5kc&list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_&index=2) ([i la segona part](https://www.youtube.com/watch?v=TbcEqkabAWU&list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_&index=3))
-- [Aquest en anglès](https://www.youtube.com/watch?v=rfscVS0vtbw)
-- [O aquest altre més llarg](https://www.youtube.com/watch?v=nLRL_NcnK-4)
+- [Aquesta en castellà](https://www.youtube.com/watch?v=Kp4Mvapo5kc&list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_&index=2) ([i la segona part](https://www.youtube.com/watch?v=TbcEqkabAWU&list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_&index=3)) o [aquesta altra](https://www.youtube.com/watch?v=TkN2i-_4N4g)
+- [Aquesta en anglès](https://www.youtube.com/watch?v=rfscVS0vtbw) o [aquesta altra](https://www.youtube.com/watch?v=nLRL_NcnK-4)
 
 
 ## Objectius
